@@ -1,6 +1,16 @@
 # CU-Boulder
 Personal coursework and schedule for University of Colorado Boulder
 * [Classes](#classes)
+  * [2016-2017](#2016-2017)
+  * [2017-2018](#2017-2018)
+  * [2018-2019](#2018-2019)
+  * [2019-2020](#2019-2020)
+* [Requirements](#requirements)
+  * [Calculus](#calculus)
+  * [Computing](#computing)
+  * [Science](#science)
+  * [Humanities and Social Sciences](#humanities-and-social-sciences)
+  * [Credits](#credits)
 
 ## Classes
 ### 2016-2017
@@ -86,9 +96,25 @@ _*Note*: Students who have completed MATH 3000, 3200, or 4130 have satisfied thi
   * APPM 4380/4390
   * APPM 3570 and APPM 4520/APPM 4560
 
-3. Other:
-  * A minimum of 24 credits in applied mathematics or mathematics courses numbered 3000 or above (including the required courses). No more than 3 credits of APPM 4840 may count towards these 24. No more than six credits of independent study are allowed for credit towards the BS in Applied Math.
+### Humanities and Social Sciences
+* 18 credits required by the College of Engineering and Applied Sciences
+* 3 of those 18 credits  must satisfy the writing requirement
+  * HUEN 1010 (first-year freshmen only)
+  * WRTG 3030
+  * WRTG 3035
+  * HUEN 3100
+  * PHYS 3050
+* At least 9 credit hours must be numbered 3000+
+* A complete list of courses that can be used to satisfy this requirement can be found at http://www.colorado.edu/engineering/academics/policies/hss
 
-  * A minimum of 24 credits in engineering courses (or approved courses with significant mathematical content in A&S or Business) with at least 15 credits in courses numbered 2000 or above and at least 6 credits in courses numbered 3000 or above.  These 24 credits are in addition to those required credits listed above under _computing_ and _science_. Several possible options are listed on the following pages
+### Credits:
+As stated previously, 128 credit hours of acceptable coursework with cumulative and major grade point averages of C (2.25) or better are required for a B.S. in Applied Mathematics. In addition, students must acquire:
+* A minimum of 24 credits in APPM or MATH courses (including the required courses):
+  * Numbered 3000+
+  * No more than 3 credits of APPM 4840 may count towards these 24
+  * No more than six credits of independent study are allowed for credit
 
-  * Humanities and Social Sciences requirements of the College of Engineering and Applied Sciences (18 credits), which includes a 3 credit writing requirement. Students may satisfy the writing requirement by taking HUEN 1010 (first-year freshmen only), WRTG 3030, WRTG 3035, HUEN 3100, or PHYS 3050. Humanities and social science electives must not be limited to a selection of unrelated introductory courses. At least 9 credit hours must be at the 3000-level or above. A complete list of courses that can be used to satisfy this requirement can be found at http://www.colorado.edu/engineering/academics/policies/hss.
+* A minimum of 24 credits in engineering courses (or approved courses with significant mathematical content in A&S or Business) with:
+  * 15 or more credits in courses numbered 2000+
+  * At least 6 credits in courses numbered 3000+
+  * These 24 credits are in addition to those required credits listed above under [computing](#computing) and [science](#science).
