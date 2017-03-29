@@ -57,7 +57,7 @@ One of the following:
   * GEEN 1300
   * ECEN 1310
 
-# Science
+### Science
   * PHYS 1110, 1120, and 1140
   * 5 additional credit hours (including 2 credits of laboratory science) from one of the following:
     * CHEN 1211 and CHEM 1221
@@ -66,7 +66,7 @@ One of the following:
     * MCDB 1150, 1151, 2150, and 2151
   * Students choosing degree options 3c or 3d must be enrolled in (or have completed) PHYS 1120 at the time of their IUT application
 
-# APPM
+### APPM
 _*Note*: Students who have completed MATH 3000, 3200, or 4130 have satisfied this requirement._
 1. One of the following courses:
   * APPM 2360 (Differential Equations with Linear Algebra.)
