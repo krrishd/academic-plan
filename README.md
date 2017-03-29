@@ -86,8 +86,10 @@ Complete one of the following Discrete Math courses:
 * [ ] ECEN 2703-3, Discrete Mathematics for Computer Engineers.
 * [ ] If you have completed a different discrete math course, please see an advisor for the Computer Science - BS.
 
-* [ ] Complete:  **CSCI 2400-4**, Computer Systems. Grade of C- or better.
-* Complete 6 or more hours of Computer Science electives to make the required 21 hours. See elective list below:
+* Complete:  
+  * [ ] **CSCI 2400-4**, Computer Systems. Grade of C- or better.
+
+Complete 6 or more hours of Computer Science electives to make the required 21 hours. See elective list below:
   * [ ] **CSCI 3002-3**, Human-Centered Computing Foundations.
   * [ ] CSCI 3022-3, Data Science Algorithms.
   * [ ] **CSCI 3104-4**, Algorithms.
@@ -144,8 +146,7 @@ _*Note*: Students who have completed MATH 3000, 3200, or 4130 have satisfied thi
   * [ ] **APPM 4650** (Intermediate Numerical Analysis I)
   * [ ] **APPM 4440** or MATH 3001 or MATH 3140
 
-2. A two semester course sequence of applied mathematics or mathematics courses numbered 4000 or above in addition to APPM 4350 and 4360.
-  Possible sequences include:
+2. A two semester course sequence of applied mathematics or mathematics courses numbered 4000 or above in addition to APPM 4350 and 4360. Possible sequences include:
   * [ ] **APPM 4650**/4660
   * [ ] **APPM 4570**/4580
   * [ ] **APPM 4560**/4520
