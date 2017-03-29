@@ -57,7 +57,7 @@ Personal coursework and schedule for University of Colorado Boulder
 ## Requirements
 The B.S. degree in Applied Mathematics requires the completion of a minimum of 128 credit hours of acceptable coursework with cumulative and major grade point averages of C (2.25) or better. Students must complete the following minimum requirements:
 
-Courses I've bolded are ones I plan to take.
+Courses I've **bolded** are ones I plan to take.
 
 ### Calculus
 Three semesters of Calculus.
@@ -79,7 +79,7 @@ One of the following:
 * [ ] CSCI 1320-4, Computer Science 1: Starting Computing - Engineering.
 * [ ] ECEN 1310-4, C & MATLAB Programming for ECE
 
-* [] Complete **CSCI 2270** (4) Computer Science 2: Data Structures (with a grade of C- or better)
+* [ ] Complete **CSCI 2270** (4) Computer Science 2: Data Structures (with a grade of C- or better)
 
 Complete one of the following Discrete Math courses:
 * [ ] CSCI 2824-3, Discrete Structures.  Grade of C- or better.  
