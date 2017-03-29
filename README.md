@@ -5,6 +5,7 @@ Personal coursework and schedule for University of Colorado Boulder
   * [2017-2018](#2017-2018)
   * [2018-2019](#2018-2019)
   * [2019-2020](#2019-2020)
+
 * [Requirements](#requirements)
   * [Calculus](#calculus)
   * [Computing](#computing)
@@ -58,9 +59,9 @@ The B.S. degree in Applied Mathematics requires the completion of a minimum of 1
 
 ### Calculus
 Three semesters of Calculus.
-  * APPM 1350 or MATH 1300
-  * APPM 1360 or MATH 2300
-  * APPM 2350 or MATH 2400
+  * [x] APPM 1350 or MATH 1300
+  * [ ] APPM 1360 or MATH 2300
+  * [ ] APPM 2350 or MATH 2400
 
 ### Computing
 One of the following:
