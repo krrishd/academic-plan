@@ -64,9 +64,10 @@ The B.S. degree in Applied Mathematics requires the completion of a minimum of 1
     * EBIO 1210, 1220, 1230, and 1240
     * MCDB 1150, 1151, 2150, and 2151
 
-* _Note to IUT students: Students choosing options 3c or 3d must be enrolled in (or have completed) PHYS 1120 at the time of their IUT application._
+_Note to IUT students: Students choosing options 3c or 3d must be enrolled in (or have completed) PHYS 1120 at the time of their IUT application._
 
-* Course Requirements: One of the following
+* Required Courses: One of the following
+
   _Note: Students who have completed MATH 3000, 3200, or 4130 have satisfied this requirement._
   * APPM 2360 (Differential Equations with Linear Algebra.)
   * APPM 3310 (Matrix Methods)
@@ -76,6 +77,7 @@ The B.S. degree in Applied Mathematics requires the completion of a minimum of 1
   * APPM 4440 or MATH 3001 or MATH 3140
 
 * Two-Semester Course Sequence:
+
   A two semester course sequence of applied mathematics or mathematics courses numbered 4000 or above in addition to APPM 4350 and 4360.
 
   Possible sequences include:
@@ -87,6 +89,7 @@ The B.S. degree in Applied Mathematics requires the completion of a minimum of 1
   * APPM 3570 and APPM 4520/APPM 4560
 
 * Other:
+
   A minimum of 24 credits in applied mathematics or mathematics courses numbered 3000 or above (including the required courses). No more than 3 credits of APPM 4840 may count towards these 24. No more than six credits of independent study are allowed for credit towards the BS in Applied Math.
 
   A minimum of 24 credits in engineering courses (or approved courses with significant mathematical content in A&S or Business) with at least 15 credits in courses numbered 2000 or above and at least 6 credits in courses numbered 3000 or above.  These 24 credits are in addition to those required credits listed in numbers 2 and 3 (mentioned above). Several possible options are listed on the following pages
