@@ -14,25 +14,25 @@ Personal coursework and schedule for University of Colorado Boulder
 
 ## Classes
 ### 2016-2017
-|              Fall Semester             | Hrs |          Spring Semester         | Hrs |
-|:--------------------------------------:|:---:|:--------------------------------:|:---:|
-| APPM 1350 – Calculus 1                 | 4   | APPM 1360 – Calculus 2           | 4   |
-| CHEN 1211 – Gen Chem                   | 4   | PHYS 1110 – Physics 1            | 4   |
-| CHEM 1221 – Gen Chem Lab               | 1   | CSCI 2270 – Data Structures      | 4   |
-| CSCI 1300 – Computer Sci 1:Programming | 3   | GEEN 1400 – Engineering Projects | 3   |
-| HUEN 1010 – Humanities for Engineers   | 3   |                                  |     |
-|                                        | 16  |                                  | 15  |
+|              Fall Semester                  | Hrs |          Spring Semester                                        | Hrs |
+|:-------------------------------------------:|:---:|:---------------------------------------------------------------:|:---:|
+| APPM 1350 – Calculus 1                      | 4   | APPM 1360 – Calculus 2                                          | 4   |
+| CHEN 1211 – Gen Chem                        | 4   | PHYS 1110 – Physics 1                                           | 4   |
+| CHEM 1221 – Gen Chem Lab                    | 1   | CSCI 2270 – Data Structures                                     | 4   |
+| CSCI 1300 – Computer Sci 1:Programming      | 3   | GEEN 1400 – Engineering Projects                                | 3   |
+| HUEN 1010 – Humanities for Engineers        | 3   |                                                                 |     |
+|                                             | 16  |                                                                 | 15  |
 
 ### 2017-2018
-|                    Fall Semester                   | Hrs |                    Spring Semester                    | Hrs |
-|:--------------------------------------------------:|:---:|:-----------------------------------------------------:|:---:|
-| APPM 2350 – Calculus 3                             | 4   | APPM 2360 – Linear Alg & Diff. Eq.                    | 4   |
-| PHYS 1120 – General Physics 2                      | 4   | APPM 3310 – Matrix Methods                            | 3   |
-| PHYS 1140 – Experimental Physics                   | 1   | CSCI 3104 – Algorithms                                | 4   |
-| CSCI 2400 – Computer Systems                       | 3   | CSCI 3002 – Human-Centered Computing Foundations      | 3   |
-| CSCI 3308 – Software Development Methods and Tools | 3   | SOCY 2011 – Contemporary Social Issues & Human Values | 3   |
-| PSYC 1001 – General Psychology                     | 3-4 |                                                       |     |
-|                                                    | 18  |                                                       | 17  |
+|                Fall Semester                | Hrs |                         Spring Semester                         | Hrs |
+|:-------------------------------------------:|:---:|:---------------------------------------------------------------:|:---:|
+| APPM 2350 – Calculus 3                      | 4   | APPM 2360 – Linear Alg & Diff. Eq.                              | 4   |
+| PHYS 1120 – General Physics 2               | 4   | APPM 3310 – Matrix Methods                                      | 3   |
+| PHYS 1140 – Experimental Physics            | 1   | CSCI 3104 – Algorithms                                          | 4   |
+| CSCI 2400 – Computer Systems                | 3   | CSCI 3002 – Human-Centered Computing Foundations                | 3   |
+| CSCI 3308 – Discrete Structures             | 3   | SOCY 2011 – Contemporary Social Issues & Human Values           | 3   |
+| PSYC 1001 – General Psychology              | 3-4 |                                                                 |     |
+|                                             | 18  |                                                                 | 17  |
 
 ### 2018-2019
 |                Fall Semester               | Hrs |                         Spring Semester                         | Hrs |
@@ -83,55 +83,54 @@ One of the following:
 
 _Note: I'm a Computer Science option, so the credits below are credits specific to my option._
 
-One of the following:
-* [ ] CSCI 1300-4, Computer Science 1: Starting Computing.
-* [x] CSCI 1310-4, Computer Science 1: Starting Computing - Experienced.
-* [ ] CSCI 1320-4, Computer Science 1: Starting Computing - Engineering.
-* [ ] ECEN 1310-4, C & MATLAB Programming for ECE
-
-* [ ] Complete **CSCI 2270** (4) Computer Science 2: Data Structures (with a grade of C- or better)
+Complete one of the following:
+* [ ] CSCI 1300, Computer Science 1: Starting Computing.
+* [x] CSCI 1310, Computer Science 1: Starting Computing - Experienced.
+* [ ] CSCI 1320, Computer Science 1: Starting Computing - Engineering.
+* [ ] ECEN 1310, C & MATLAB Programming for ECE
 
 Complete one of the following Discrete Math courses:
-* [ ] CSCI 2824-3, Discrete Structures.  Grade of C- or better.  
-* [ ] ECEN 2703-3, Discrete Mathematics for Computer Engineers.
+* [ ] **CSCI 2824**, Discrete Structures.  Grade of C- or better.  
+* [ ] ECEN 2703, Discrete Mathematics for Computer Engineers.
 * [ ] If you have completed a different discrete math course, please see an advisor for the Computer Science - BS.
 
 Complete:  
-  * [ ] **CSCI 2400-4**, Computer Systems. Grade of C- or better.
+  * [ ] **CSCI 2270** (4) Computer Science 2: Data Structures (with a grade of C- or better)
+  * [ ] **CSCI 2400**, Computer Systems. Grade of C- or better.
 
 Complete 6 or more hours of Computer Science electives to make the required 21 hours. See elective list below:
-  * [ ] **CSCI 3002-3**, Human-Centered Computing Foundations.
-  * [ ] CSCI 3022-3, Data Science Algorithms.
-  * [ ] **CSCI 3104-4**, Algorithms.
+  * [ ] **CSCI 3002**, Human-Centered Computing Foundations.
+  * [ ] CSCI 3022, Data Science Algorithms.
+  * [ ] **CSCI 3104**, Algorithms.
   * [ ] CSCI 3112-1, Human-Centered Computing Professional Development.  
-  * [ ] CSCI 3155-4, Principles of Programming Languages.  
-  * [ ] **CSCI 3202-3**, Introduction to Artificial Intelligence.
-  * [ ] CSCI 3287-3, Design & Analysis of Data Systems.
-  * [ ] CSCI 3302-3, Introduction to Robotics.
-  * [ ] **CSCI 3308-3**, Software Development Methods and Tools.  
-  * [ ] CSCI 3434-3, Theory of Computation.
-  * [ ] CSCI 3656-3, Numerical Computation or **APPM 4650**, Intermediate Numerical Analysis I. (Only one of these will count towards the CS minor)
-  * [ ] **CSCI 3702-3**, Cognitive Science.  
-  * [ ] CSCI 3753-4, Design & Analysis of Operating Systems.  
-  * [ ] CSCI 3832-3, Machine Translation.
-  * [ ] CSCI 4229-3, Computer Graphics.  
-  * [ ] CSCI 4239-3, Advanced Computer Graphics.  
-  * [ ] CSCI 4253-3, Datacenter Scale Computing.
-  * [ ] CSCI 4273-3, Network Systems.  
-  * [ ] CSCI 4302-3, Advanced Robotics.  
-  * [ ] CSCI 4314-3, Algorithms for Molecular Biology.  
-  * [ ] CSCI 4413-3, Computer Security & Ethical Hacking.  
-  * [ ] CSCI 4446-3, Chaotic Dynamics.  
-  * [ ] CSCI 4448-3, Object-Oriented Analysis and Design.
-  * [ ] CSCI 4502-3, Data Mining.  
-  * [ ] CSCI 4555-3, Compiler Construction.  
-  * [ ] CSCI 4576-4, High-Performance Scientific Computing 1.  
-  * [ ] CSCI 4593-3, Computer Organization.  
-  * [ ] CSCI 4753-3, Computer Performance Modeling.  
-  * [ ] CSCI 4809-3, Computer Animation.   
-  * [ ] CSCI 4830-3, Special Topics in Computer Science. Topics vary by semester.
-  * [ ] CSCI 4831-3, Special Topics in Algorithms. Topics vary by semester.
-  * [ ] TLEN 5842-3, Linux Systems Administration (formerly CSCI 4113 or TLEN 5833 Topics; only one of these will count toward the CS minor).
+  * [ ] CSCI 3155, Principles of Programming Languages.  
+  * [ ] **CSCI 3202**, Introduction to Artificial Intelligence.
+  * [ ] CSCI 3287, Design & Analysis of Data Systems.
+  * [ ] CSCI 3302, Introduction to Robotics.
+  * [ ] CSCI 3308, Software Development Methods and Tools.  
+  * [ ] CSCI 3434, Theory of Computation.
+  * [ ] CSCI 3656, Numerical Computation or **APPM 4650**, Intermediate Numerical Analysis I. (Only one of these will count towards the CS minor)
+  * [ ] **CSCI 3702**, Cognitive Science.  
+  * [ ] CSCI 3753, Design & Analysis of Operating Systems.  
+  * [ ] CSCI 3832, Machine Translation.
+  * [ ] CSCI 4229, Computer Graphics.  
+  * [ ] CSCI 4239, Advanced Computer Graphics.  
+  * [ ] CSCI 4253, Datacenter Scale Computing.
+  * [ ] CSCI 4273, Network Systems.  
+  * [ ] CSCI 4302, Advanced Robotics.  
+  * [ ] CSCI 4314, Algorithms for Molecular Biology.  
+  * [ ] CSCI 4413, Computer Security & Ethical Hacking.  
+  * [ ] CSCI 4446, Chaotic Dynamics.  
+  * [ ] CSCI 4448, Object-Oriented Analysis and Design.
+  * [ ] CSCI 4502, Data Mining.  
+  * [ ] CSCI 4555, Compiler Construction.  
+  * [ ] CSCI 4576, High-Performance Scientific Computing 1.  
+  * [ ] CSCI 4593, Computer Organization.  
+  * [ ] CSCI 4753, Computer Performance Modeling.  
+  * [ ] CSCI 4809, Computer Animation.   
+  * [ ] CSCI 4830, Special Topics in Computer Science. Topics vary by semester.
+  * [ ] CSCI 4831, Special Topics in Algorithms. Topics vary by semester.
+  * [ ] TLEN 5842, Linux Systems Administration (formerly CSCI 4113 or TLEN 5833 Topics; only one of these will count toward the CS minor).
   * [ ] Other upper-division Computer Science courses (CSCI courses numbered 3000 through 4999), if approved by the Computer Science undergraduate advisor.
   * [ ] First-year graduate Computer Science courses (CSCI courses numbered 5000 through 5999), if approved by the Computer Science undergraduate advisor.
 
