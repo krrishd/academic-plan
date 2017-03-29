@@ -107,7 +107,7 @@ Complete 6 or more hours of Computer Science electives to make the required 21 h
   * [ ] **CSCI 3202**, Introduction to Artificial Intelligence.
   * [ ] CSCI 3287, Design & Analysis of Data Systems.
   * [ ] CSCI 3302, Introduction to Robotics.
-  * [ ] CSCI 3308, Software Development Methods and Tools.  
+  * [ ] **CSCI 3308**, Software Development Methods and Tools.  
   * [ ] CSCI 3434, Theory of Computation.
   * [ ] CSCI 3656, Numerical Computation or **APPM 4650**, Intermediate Numerical Analysis I. (Only one of these will count towards the CS minor)
   * [ ] **CSCI 3702**, Cognitive Science.  
@@ -178,3 +178,5 @@ _*Note*: Students who have completed MATH 3000, 3200, or 4130 have satisfied thi
 If all goes according to plan, I'll graduate with a B.S. in Applied Math and a minor in Computer Science in 2020. I'll have earned:
 * 129-130 credit hours (depending on whether or not I volunteer as a subject in **PSYC-1001**)
 * 26 CSCI credit hours (enough for the minor)
+* 27-28 humanities and social sciences credit hours, (19 of which are numbered 3000+)
+* 10 science credits (1 of which is a lab)
