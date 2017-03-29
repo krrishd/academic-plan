@@ -11,6 +11,9 @@ Personal coursework and schedule for University of Colorado Boulder
 | CSCI 1300 – Computer Sci 1:Programming                            | 3   | GEEN 1400 – Engineering Projects                                | 3   |
 | HUEN 1010 – Humanities for Engineers                              | 3   |                                                                 |     |
 |                                                                   | 16  |                                                                 | 15  |
+
+|                           Fall Semester                           | Hrs |                         Spring Semester                         | Hrs |
+|:-----------------------------------------------------------------:|:---:|:---------------------------------------------------------------:|:---:|
 | APPM 2350 – Calculus 3                                            | 4   | APPM 2360 – Linear Alg & Diff. Eq.                              | 4   |
 | PHYS 1120 – General Physics 2                                     | 4   | APPM 3310 – Matrix Methods                                      | 3   |
 | PHYS 1140 – Experimental Physics                                  | 1   | CSCI 3104 – Algorithms                                          | 4   |
