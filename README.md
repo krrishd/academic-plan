@@ -11,7 +11,8 @@ Personal coursework and schedule for University of Colorado Boulder
   * [Computing](#computing)
   * [Science](#science)
   * [Humanities and Social Sciences](#humanities-and-social-sciences)
-  * [Credits](#credits)
+
+* [Theoretical Standing](#theoretical-standing)
 
 ## Classes
 ### 2016-2017
@@ -25,14 +26,15 @@ Personal coursework and schedule for University of Colorado Boulder
 |                                        | 16  |                                  | 15  |
 
 ### 2017-2018
-|                    Fall Semester                   | Hrs |                    Spring Semester                    | Hrs |
-|:--------------------------------------------------:|:---:|:-----------------------------------------------------:|:---:|
-| APPM 2350 – Calculus 3                             | 4   | APPM 2360 – Linear Alg & Diff. Eq.                    | 4   |
-| PHYS 1120 – General Physics 2                      | 4   | APPM 3310 – Matrix Methods                            | 3   |
-| PHYS 1140 – Experimental Physics                   | 1   | CSCI 3104 – Algorithms                                | 4   |
-| CSCI 2400 – Computer Systems                       | 3   | CSCI 3002 – Human-Centered Computing Foundations      | 3   |
-| CSCI 3308 – Software Development Methods and Tools | 3   | SOCY 2011 – Contemporary Social Issues & Human Values | 3   |
-| TOTAL                                              | 15  |                                                       | 17  |
+|                    Fall Semester                   |  Hrs  |                    Spring Semester                    | Hrs |
+|:--------------------------------------------------:|:-----:|:-----------------------------------------------------:|:---:|
+| APPM 2350 – Calculus 3                             | 4     | APPM 2360 – Linear Alg & Diff. Eq.                    | 4   |
+| PHYS 1120 – General Physics 2                      | 4     | APPM 3310 – Matrix Methods                            | 3   |
+| PHYS 1140 – Experimental Physics                   | 1     | CSCI 3104 – Algorithms                                | 4   |
+| CSCI 2400 – Computer Systems                       | 3     | CSCI 3002 – Human-Centered Computing Foundations      | 3   |
+| CSCI 3308 – Software Development Methods and Tools | 3     | SOCY 2011 – Contemporary Social Issues & Human Values | 3   |
+| PSYC 1001 – General Psychology                     | 3-4   |                                                       |     |
+|                                                    | 18-19 |                                                       | 17  |
 
 ### 2018-2019
 |                Fall Semester               | Hrs |                         Spring Semester                         | Hrs |
@@ -56,6 +58,16 @@ Personal coursework and schedule for University of Colorado Boulder
 
 ## Requirements
 The B.S. degree in Applied Mathematics requires the completion of a minimum of 128 credit hours of acceptable coursework with cumulative and major grade point averages of C (2.25) or better. Students must complete the following minimum requirements:
+
+* A minimum of 24 credits in APPM or MATH courses (including the required courses):
+  * Numbered 3000+
+  * No more than 3 credits of APPM 4840 may count towards these 24
+  * No more than six credits of independent study are allowed for credit
+
+* A minimum of 24 credits in engineering courses (or approved courses with significant mathematical content in A&S or Business) with:
+  * 15 or more credits in courses numbered 2000+
+  * At least 6 credits in courses numbered 3000+
+  * These 24 credits are in addition to those required credits listed below under [computing](#computing) and [science](#science).
 
 Courses I've **bolded** are ones I plan to take.
 
@@ -165,14 +177,6 @@ _*Note*: Students who have completed MATH 3000, 3200, or 4130 have satisfied thi
 * At least 9 credit hours must be numbered 3000+
 * A complete list of courses that can be used to satisfy this requirement can be found at http://www.colorado.edu/engineering/academics/policies/hss
 
-### Credits:
-As stated previously, 128 credit hours of acceptable coursework with cumulative and major grade point averages of C (2.25) or better are required for a B.S. in Applied Mathematics. In addition, students must acquire:
-* A minimum of 24 credits in APPM or MATH courses (including the required courses):
-  * Numbered 3000+
-  * No more than 3 credits of APPM 4840 may count towards these 24
-  * No more than six credits of independent study are allowed for credit
-
-* A minimum of 24 credits in engineering courses (or approved courses with significant mathematical content in A&S or Business) with:
-  * 15 or more credits in courses numbered 2000+
-  * At least 6 credits in courses numbered 3000+
-  * These 24 credits are in addition to those required credits listed above under computing and science.
+## Theoretical Standing
+If all goes according to plan, I'll graduate with a B.S. in Applied Math and a minor in Computer Science in 2020. I'll have earned:
+*
