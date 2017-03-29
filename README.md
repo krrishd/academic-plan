@@ -5,13 +5,11 @@ Personal coursework and schedule for University of Colorado Boulder
   * [2017-2018](#2017-2018)
   * [2018-2019](#2018-2019)
   * [2019-2020](#2019-2020)
-
 * [Requirements](#requirements)
   * [Calculus](#calculus)
   * [Computing](#computing)
   * [Science](#science)
   * [Humanities and Social Sciences](#humanities-and-social-sciences)
-
 * [Theoretical Standing](#theoretical-standing)
 
 ## Classes
@@ -26,15 +24,15 @@ Personal coursework and schedule for University of Colorado Boulder
 |                                        | 16  |                                  | 15  |
 
 ### 2017-2018
-|                    Fall Semester                   |  Hrs  |                    Spring Semester                    | Hrs |
-|:--------------------------------------------------:|:-----:|:-----------------------------------------------------:|:---:|
-| APPM 2350 – Calculus 3                             | 4     | APPM 2360 – Linear Alg & Diff. Eq.                    | 4   |
-| PHYS 1120 – General Physics 2                      | 4     | APPM 3310 – Matrix Methods                            | 3   |
-| PHYS 1140 – Experimental Physics                   | 1     | CSCI 3104 – Algorithms                                | 4   |
-| CSCI 2400 – Computer Systems                       | 3     | CSCI 3002 – Human-Centered Computing Foundations      | 3   |
-| CSCI 3308 – Software Development Methods and Tools | 3     | SOCY 2011 – Contemporary Social Issues & Human Values | 3   |
-| PSYC 1001 – General Psychology                     | 3-4   |                                                       |     |
-|                                                    | 18-19 |                                                       | 17  |
+|                    Fall Semester                   | Hrs |                    Spring Semester                    | Hrs |
+|:--------------------------------------------------:|:---:|:-----------------------------------------------------:|:---:|
+| APPM 2350 – Calculus 3                             | 4   | APPM 2360 – Linear Alg & Diff. Eq.                    | 4   |
+| PHYS 1120 – General Physics 2                      | 4   | APPM 3310 – Matrix Methods                            | 3   |
+| PHYS 1140 – Experimental Physics                   | 1   | CSCI 3104 – Algorithms                                | 4   |
+| CSCI 2400 – Computer Systems                       | 3   | CSCI 3002 – Human-Centered Computing Foundations      | 3   |
+| CSCI 3308 – Software Development Methods and Tools | 3   | SOCY 2011 – Contemporary Social Issues & Human Values | 3   |
+| PSYC 1001 – General Psychology                     | 3-4 |                                                       |     |
+|                                                    | 18  |                                                       | 17  |
 
 ### 2018-2019
 |                Fall Semester               | Hrs |                         Spring Semester                         | Hrs |
@@ -98,7 +96,7 @@ Complete one of the following Discrete Math courses:
 * [ ] ECEN 2703-3, Discrete Mathematics for Computer Engineers.
 * [ ] If you have completed a different discrete math course, please see an advisor for the Computer Science - BS.
 
-* Complete:  
+Complete:  
   * [ ] **CSCI 2400-4**, Computer Systems. Grade of C- or better.
 
 Complete 6 or more hours of Computer Science electives to make the required 21 hours. See elective list below:
@@ -179,4 +177,5 @@ _*Note*: Students who have completed MATH 3000, 3200, or 4130 have satisfied thi
 
 ## Theoretical Standing
 If all goes according to plan, I'll graduate with a B.S. in Applied Math and a minor in Computer Science in 2020. I'll have earned:
-*
+* 129-130 credit hours (depending on whether or not I volunteer as a subject in **PSYC-1001**)
+* 26 CSCI credit hours (enough for the minor)
