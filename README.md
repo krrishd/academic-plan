@@ -62,8 +62,8 @@ Courses I've bolded are ones I plan to take.
 ### Calculus
 Three semesters of Calculus.
   * [x] APPM 1350 or MATH 1300
-  * [ ] *APPM 1360* or MATH 2300
-  * [ ] *APPM 2350* or MATH 2400
+  * [ ] **APPM 1360** or MATH 2300
+  * [ ] **APPM 2350** or MATH 2400
 
 ### Computing
 One of the following:
@@ -79,27 +79,27 @@ One of the following:
 * [ ] CSCI 1320-4, Computer Science 1: Starting Computing - Engineering.
 * [ ] ECEN 1310-4, C & MATLAB Programming for ECE
 
-* [] Complete *CSCI 2270* (4) Computer Science 2: Data Structures (with a grade of C- or better)
+* [] Complete **CSCI 2270** (4) Computer Science 2: Data Structures (with a grade of C- or better)
 
 Complete one of the following Discrete Math courses:
 * [ ] CSCI 2824-3, Discrete Structures.  Grade of C- or better.  
 * [ ] ECEN 2703-3, Discrete Mathematics for Computer Engineers.
 * [ ] If you have completed a different discrete math course, please see an advisor for the Computer Science - BS.
 
-* [ ] Complete:  *CSCI 2400-4*, Computer Systems. Grade of C- or better.
+* [ ] Complete:  **CSCI 2400-4**, Computer Systems. Grade of C- or better.
 * Complete 6 or more hours of Computer Science electives to make the required 21 hours. See elective list below:
-  * [ ] *CSCI 3002-3*, Human-Centered Computing Foundations.
+  * [ ] **CSCI 3002-3**, Human-Centered Computing Foundations.
   * [ ] CSCI 3022-3, Data Science Algorithms.
-  * [ ] *CSCI 3104-4*, Algorithms.
+  * [ ] **CSCI 3104-4**, Algorithms.
   * [ ] CSCI 3112-1, Human-Centered Computing Professional Development.  
   * [ ] CSCI 3155-4, Principles of Programming Languages.  
-  * [ ] *CSCI 3202-3*, Introduction to Artificial Intelligence.
+  * [ ] **CSCI 3202-3**, Introduction to Artificial Intelligence.
   * [ ] CSCI 3287-3, Design & Analysis of Data Systems.
   * [ ] CSCI 3302-3, Introduction to Robotics.
-  * [ ] *CSCI 3308-3*, Software Development Methods and Tools.  
+  * [ ] **CSCI 3308-3**, Software Development Methods and Tools.  
   * [ ] CSCI 3434-3, Theory of Computation.
-  * [ ] CSCI 3656-3, Numerical Computation or *APPM 4650*, Intermediate Numerical Analysis I. (Only one of these will count towards the CS minor)
-  * [ ] *CSCI 3702-3*, Cognitive Science.  
+  * [ ] CSCI 3656-3, Numerical Computation or **APPM 4650**, Intermediate Numerical Analysis I. (Only one of these will count towards the CS minor)
+  * [ ] **CSCI 3702-3**, Cognitive Science.  
   * [ ] CSCI 3753-4, Design & Analysis of Operating Systems.  
   * [ ] CSCI 3832-3, Machine Translation.
   * [ ] CSCI 4229-3, Computer Graphics.  
@@ -125,8 +125,8 @@ Complete one of the following Discrete Math courses:
 
 ### Science
   * [x] PHYS 1110
-  * [ ] *PHYS 1120*
-  * [ ] *PHYS 1140*
+  * [ ] **PHYS 1120**
+  * [ ] **PHYS 1140**
   * 5 additional credit hours (including 2 credits of laboratory science) from one of the following:
     * [x] CHEN 1211 and CHEM 1221
     * [ ] CHEM 1113 and CHEM 1114
@@ -137,27 +137,27 @@ Complete one of the following Discrete Math courses:
 ### APPM
 _*Note*: Students who have completed MATH 3000, 3200, or 4130 have satisfied this requirement._
 1. One of the following courses:
-  * [ ] *APPM 2360* (Differential Equations with Linear Algebra.)
-  * [ ] *APPM 3310* (Matrix Methods)
-  * [ ] *APPM 4350* (Methods in Applied Mathematics I)
-  * [ ] *APPM 4360* (Methods in Applied Mathematics II)
-  * [ ] *APPM 4650* (Intermediate Numerical Analysis I)
-  * [ ] *APPM 4440* or MATH 3001 or MATH 3140
+  * [ ] **APPM 2360** (Differential Equations with Linear Algebra.)
+  * [ ] **APPM 3310** (Matrix Methods)
+  * [ ] **APPM 4350** (Methods in Applied Mathematics I)
+  * [ ] **APPM 4360** (Methods in Applied Mathematics II)
+  * [ ] **APPM 4650** (Intermediate Numerical Analysis I)
+  * [ ] **APPM 4440** or MATH 3001 or MATH 3140
 
 2. A two semester course sequence of applied mathematics or mathematics courses numbered 4000 or above in addition to APPM 4350 and 4360.
   Possible sequences include:
-  * [ ] *APPM 4650*/4660
-  * [ ] *APPM 4570*/4580
-  * [ ] *APPM 4560*/4520
-  * [ ] *APPM 4440*/4450
-  * [ ] *APPM 4380*/4390
-  * [ ] *APPM 3570* and *APPM 4520*/*APPM 4560*
+  * [ ] **APPM 4650**/4660
+  * [ ] **APPM 4570**/4580
+  * [ ] **APPM 4560**/4520
+  * [ ] **APPM 4440**/4450
+  * [ ] **APPM 4380**/4390
+  * [ ] **APPM 3570** and **APPM 4520**/**APPM 4560**
 
 ### Humanities and Social Sciences
 * 18 credits required by the College of Engineering and Applied Sciences
 * 3 of those 18 credits  must satisfy the writing requirement
   * [x] HUEN 1010 (first-year freshmen only)
-  * [ ] *WRTG 3030*
+  * [ ] **WRTG 3030**
   * [ ] WRTG 3035
   * [ ] HUEN 3100
   * [ ] PHYS 3050
