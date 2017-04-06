@@ -28,31 +28,31 @@ Personal coursework and schedule for University of Colorado Boulder
 |---------------------------------------------|:---:|-----------------------------------------------------------------|:---:|
 | APPM 2350 – Calculus 3                      | 4   | APPM 2360 – Linear Alg & Diff. Eq.                              | 4   |
 | PHYS 1120 – General Physics 2               | 4   | APPM 3310 – Matrix Methods                                      | 3   |
-| PHYS 1140 – Experimental Physics            | 1   | CSCI 3104 – Algorithms                                          | 4   |
-| CSCI 2400 – Computer Systems                | 3   | CSCI 3002 – Human-Centered Computing Foundations                | 3   |
-| CSCI 3308 – Discrete Structures             | 3   | SOCY 2011 – Contemporary Social Issues & Human Values           | 3   |
-| PSYC 1001 – General Psychology              | 3-4 |                                                                 |     |
-|                                             | 18  |                                                                 | 17  |
+| PHYS 1140 – Experimental Physics            | 1   | APPM 3570 - Applied Probability                                 | 4   |
+| APPM 3170 - Discrete Applied Math           | 3   | PSYC 2145 - Introductory Cognitive Psychology                   | 3   |
+| PSYC 1001 – General Psychology              | 4   | PSYC 2012 – Biological Psychology                               | 3   |
+|                                             | 16  |                                                                 | 17  |
 
 ### 2018-2019
 |                Fall Semester                | Hrs |                         Spring Semester                         | Hrs |
 |---------------------------------------------|:---:|-----------------------------------------------------------------|:---:|
-| APPM 4350 – Meth. in Appl. Math 1           | 3   | APPM 3570 – Applied Probability                                 | 3   |
-| APPM 4440  – Applied Analysis               | 3   | APPM 4360 – Meth. in Appl. Math 2                               | 3   |
-| WRTG 3030 – Writing on Science and Society  | 3   | APPM 3050 – Scientific Computing in Matlab                      | 3   |
-| CSCI 3202 – Intro to AI                     | 3   | PSCI 3051 – Public Opinion and Political Behavior               | 3   |
-| CSCI 3702 – Cognitive Science               | 3   | FREN 3200 – Introduction to Lit. Theory and Adv. Crit. Analysis | 3   |
-|                                             | 15  |                                                                 | 17  |
+| APPM 4350 – Meth. in Appl. Math 1           | 3   | APPM 3050 - Scientific Computing in Matlab                      | 3   |
+| APPM 4440 – Applied Analysis                | 3   | APPM 4450 - Undergraduate Applied Analysis 2                    | 3   |
+| CSCI 3104 – Algorithms                      | 4   | CSCI 3002 - Human-Centered Computing Foundations                | 3   |
+| CSCI 3202 – Intro to AI                     | 3   | CSCI 2400 - Computer Systems                                    | 4   |
+| CSCI 3702 – Cognitive Science               | 3   | PSYC 3131 - Human Emotion                                       | 3   |
+|                                             | 16  |                                                                 | 16  |
 
 ### 2019-2020
-|                           Fall Semester                           | Hrs |              Spring Semester              | Hrs |
-|-------------------------------------------------------------------|:---:|-------------------------------------------|:---:|
-| APPM 4650 – Inter. Num. Analysis 1                                | 3   | APPM 4660 – Inter. Num. Analysis 2        | 3   |
-| APPM 4520 or 4570 (Stats)**                                       | 3   | APPM 4520 or 4570 (Stats)**               | 3   |
-| APPM 4560 – Markov Processes, Queues, and Monte Carlo Simulations | 3   | APPM 4720 – Open Topics in Mathematics    | 3   |
-| APPM 4380 – Modeling in Applied Mathematics                       | 3   | PSYC 3456 – Psychology of Personality     | 3   |
-| PSYC 3101 – Statistics and Research Methods in Psychology         | 4   | PSYC 3102 – Behavioral Genetics           | 3   |
-|                                                                   | 16  |                                           | 15  |
+|                           Fall Semester                           | Hrs |              Spring Semester                               | Hrs |
+|-------------------------------------------------------------------|:---:|------------------------------------------------------------|:---:|
+| APPM 4650 – Inter. Num. Analysis 1                                | 3   | APPM 4660 – Inter. Num. Analysis 2                         | 3   |
+| APPM 4520 - Introduction to Mathematical Statistics               | 3   | APPM 4580 - Statistical Applications: Software and Methods | 3   |
+| APPM 4560 – Markov Processes, Queues, and Monte Carlo Simulations | 3   | APPM 4720 – Open Topics in Mathematics                     | 3   |
+| APPM 4380 – Modeling in Applied Mathematics                       | 3   | PSYC 3456 – Psychology of Personality                      | 3   |
+| HUEN 3100 - Advanced Humanities for Engineers: The Human Quest    | 3   | PSYC 3112 - Behavioral Genetics II                         | 3   |
+| PSYC 3102 - Behavioral Genetics                                   | 3   |                                                            |     |
+|                                                                   | 18  |                                                            | 15  |
 
 ## Requirements
 The B.S. degree in Applied Mathematics requires the completion of a minimum of 128 credit hours of acceptable coursework with cumulative and major grade point averages of C (2.25) or better. Students must complete the following minimum requirements:
@@ -90,49 +90,22 @@ Complete one of the following:
 * [ ] ECEN 1310, C & MATLAB Programming for ECE
 
 Complete one of the following Discrete Math courses:
-* [ ] **CSCI 2824**, Discrete Structures.  Grade of C- or better.  
+* [ ] CSCI 2824, Discrete Structures.  Grade of C- or better.  
 * [ ] ECEN 2703, Discrete Mathematics for Computer Engineers.
 * [ ] If you have completed a different discrete math course, please see an advisor for the Computer Science - BS.
+* **Note:** I'm going to take **APPM 3170** to satisfy this requirement.
 
 Complete:  
   * [ ] **CSCI 2270** (4) Computer Science 2: Data Structures (with a grade of C- or better)
   * [ ] **CSCI 2400**, Computer Systems. Grade of C- or better.
 
-Complete 6 or more hours of Computer Science electives to make the required 21 hours. See elective list below:
+Complete 6 or more hours of Computer Science electives to make the required 21 hours:
   * [ ] **CSCI 3002**, Human-Centered Computing Foundations.
-  * [ ] CSCI 3022, Data Science Algorithms.
   * [ ] **CSCI 3104**, Algorithms.
-  * [ ] CSCI 3112-1, Human-Centered Computing Professional Development.  
-  * [ ] CSCI 3155, Principles of Programming Languages.  
   * [ ] **CSCI 3202**, Introduction to Artificial Intelligence.
-  * [ ] CSCI 3287, Design & Analysis of Data Systems.
-  * [ ] CSCI 3302, Introduction to Robotics.
   * [ ] **CSCI 3308**, Software Development Methods and Tools.  
-  * [ ] CSCI 3434, Theory of Computation.
   * [ ] CSCI 3656, Numerical Computation or **APPM 4650**, Intermediate Numerical Analysis I. (Only one of these will count towards the CS minor)
   * [ ] **CSCI 3702**, Cognitive Science.  
-  * [ ] CSCI 3753, Design & Analysis of Operating Systems.  
-  * [ ] CSCI 3832, Machine Translation.
-  * [ ] CSCI 4229, Computer Graphics.  
-  * [ ] CSCI 4239, Advanced Computer Graphics.  
-  * [ ] CSCI 4253, Datacenter Scale Computing.
-  * [ ] CSCI 4273, Network Systems.  
-  * [ ] CSCI 4302, Advanced Robotics.  
-  * [ ] CSCI 4314, Algorithms for Molecular Biology.  
-  * [ ] CSCI 4413, Computer Security & Ethical Hacking.  
-  * [ ] CSCI 4446, Chaotic Dynamics.  
-  * [ ] CSCI 4448, Object-Oriented Analysis and Design.
-  * [ ] CSCI 4502, Data Mining.  
-  * [ ] CSCI 4555, Compiler Construction.  
-  * [ ] CSCI 4576, High-Performance Scientific Computing 1.  
-  * [ ] CSCI 4593, Computer Organization.  
-  * [ ] CSCI 4753, Computer Performance Modeling.  
-  * [ ] CSCI 4809, Computer Animation.   
-  * [ ] CSCI 4830, Special Topics in Computer Science. Topics vary by semester.
-  * [ ] CSCI 4831, Special Topics in Algorithms. Topics vary by semester.
-  * [ ] TLEN 5842, Linux Systems Administration (formerly CSCI 4113 or TLEN 5833 Topics; only one of these will count toward the CS minor).
-  * [ ] Other upper-division Computer Science courses (CSCI courses numbered 3000 through 4999), if approved by the Computer Science undergraduate advisor.
-  * [ ] First-year graduate Computer Science courses (CSCI courses numbered 5000 through 5999), if approved by the Computer Science undergraduate advisor.
 
 ### Science
   * [x] PHYS 1110
@@ -156,10 +129,10 @@ _*Note*: Students who have completed MATH 3000, 3200, or 4130 have satisfied thi
   * [ ] **APPM 4440** or MATH 3001 or MATH 3140
 
 2. A two semester course sequence of applied mathematics or mathematics courses numbered 4000 or above in addition to APPM 4350 and 4360. Possible sequences include:
-  * [ ] **APPM 4650**/4660
-  * [ ] **APPM 4570**/4580
-  * [ ] **APPM 4560**/4520
-  * [ ] **APPM 4440**/4450
+  * [ ] **APPM 4650**/**4660**
+  * [ ] **APPM 4570**/**4580**
+  * [ ] **APPM 4560**/**4520**
+  * [ ] **APPM 4440**/**4450**
   * [ ] **APPM 4380**/4390
   * [ ] **APPM 3570** and **APPM 4520**/**APPM 4560**
 
@@ -167,7 +140,7 @@ _*Note*: Students who have completed MATH 3000, 3200, or 4130 have satisfied thi
 * 18 credits required by the College of Engineering and Applied Sciences
 * 3 of those 18 credits  must satisfy the writing requirement
   * [x] HUEN 1010 (first-year freshmen only)
-  * [ ] **WRTG 3030**
+  * [ ] WRTG 3030
   * [ ] WRTG 3035
   * [ ] HUEN 3100
   * [ ] PHYS 3050
@@ -176,7 +149,7 @@ _*Note*: Students who have completed MATH 3000, 3200, or 4130 have satisfied thi
 
 ## Theoretical Standing
 If all goes according to plan, I'll graduate with a B.S. in Applied Math and a minor in Computer Science in 2020. I'll have earned:
-* 129-130 credit hours (depending on whether or not I volunteer as a subject in **PSYC-1001**)
-* 26 CSCI credit hours (enough for the minor)
-* 27-28 humanities and social sciences credit hours, (19 of which are numbered 3000+)
-* 10 science credits (1 of which is a lab)
+* 129 credit hours
+* 27 CSCI credit hours (enough for the minor)
+* 28 humanities and social sciences credit hours
+* 10 science credits (2 of which are labs)
