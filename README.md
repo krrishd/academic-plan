@@ -103,7 +103,6 @@ Complete 6 or more hours of Computer Science electives to make the required 21 h
   * [ ] **CSCI 3002**, Human-Centered Computing Foundations.
   * [ ] **CSCI 3104**, Algorithms.
   * [ ] **CSCI 3202**, Introduction to Artificial Intelligence.
-  * [ ] **CSCI 3308**, Software Development Methods and Tools.  
   * [ ] CSCI 3656, Numerical Computation or **APPM 4650**, Intermediate Numerical Analysis I. (Only one of these will count towards the CS minor)
   * [ ] **CSCI 3702**, Cognitive Science.  
 
