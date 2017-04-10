@@ -62,6 +62,7 @@ Personal coursework and schedule for University of Colorado Boulder
 |                                             | 11  |                                                                 | 7  |
 
 **Total:** 114
+**from HS**:30
 
 ## CS Requirements
 
