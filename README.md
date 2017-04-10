@@ -61,8 +61,12 @@ Personal coursework and schedule for University of Colorado Boulder
 | PSYC 4165 – Psychology of Perception        | 4   |                                                                 |     |
 |                                             | 11  |                                                                 | 7  |
 
-**Total:** 114
-**from HS**:30
+* **College Total**: 114
+* **HS Transfer Credits**:30
+  * 11 lower-division humanities
+  * 8 natl. sciences
+  * 11 free electives
+* **Total Total**: 144
 
 ## CS Requirements
 
@@ -196,6 +200,8 @@ Three credits of approved writing:
 * [ ] HUEN 3100-3, Humanities for Engineers 1
 * [ ] PHYS 3050-3, Writing in Physics: Problem-Solving and Rhetoric
 
+* [ ] 6 upper-division humanities
+* [ ] 21 humanities
 At least six of the remaining 21 credit hours must be at the upper-division undergraduate level or above, i.e. numbered 3000 or above. Upper-division writing does not count towards this 6 credits of upper division coursework. See the College of Engineering and Applied Science H/SS requirements for a list of approved courses and more details.
 
 ## Free Electives
