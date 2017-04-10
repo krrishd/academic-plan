@@ -53,6 +53,16 @@ Personal coursework and schedule for University of Colorado Boulder
 | LING 2000 - Intro to Linguistics            | 3   | PSYC 3101 - Stats/Research in Psychology                        | 4   |
 |                                             | 16  |                                                                 | 16  |
 
+### 2019-2020
+|                Fall Semester                | Hrs |                         Spring Semester                         | Hrs |
+|---------------------------------------------|:---:|-----------------------------------------------------------------|:---:|
+| CSCI 4348 – Startup Essentials              | 4   | CSCI 4358 – Entrepreneurial Projects 2                          | 4   |
+| CSCI 3287 – Design/Analysis of Data Systems | 3   | PSYC 4220 - Language & Mind                                     | 3   |
+| PSYC 4165 – Psychology of Perception        | 4   |                                                                 |     |
+|                                             | 11  |                                                                 | 7  |
+
+**Total:** 114
+
 ## CS Requirements
 
 ### Foundation
@@ -71,7 +81,7 @@ All of the following courses are required:
 Six of the following courses are required:
 * [x] CSCI 3002-3, Human-Centered Computing Foundations/User-Centered Design & Development
 * [x] CSCI 3202-3, Introduction to Artificial Intelligence
-* [ ] CSCI 3287-3, Design & Analysis of Data Systems
+* [x] CSCI 3287-3, Design & Analysis of Data Systems
 * [ ] CSCI 3302-3, Introduction to Robotics
 * [ ] CSCI 3434-3, Theory of Computation
 * [ ] CSCI 3656-3, Numerical Computation or APPM 4650, Intermediate Numerical Analysis 1 (only one of these will count towards the CSEN-BS)
