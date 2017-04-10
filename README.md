@@ -136,6 +136,22 @@ Take one of the following courses:
 * [ ] ECON 3818-3, Introduction to Statistics w/ Computer Applications
 * [ ] MCEN 4120-3, Engineering Statistics
 
+## Natural Science Requirements
+
+Your 17 hours must include:
+* [x] PHYS1110-4 General Physics 1 (Calculus-based) REQUIRED
+
+Complete one of the following sequences:
+* [x] PHYS 1120-4, General Physics 2 and PHYS 1140-1, Experimental Physics 1
+* [ ] CHEN 1211-4, General Chemistry for Engineers and CHEM 1221-1, Engineering General Chemistry lab
+* [ ] CHEM 1113-4, General Chemistry 1 and CHEM 1114-1, Laboratory in General Chemistry 1 (Major restrictions may be enforced by Chemistry department.)
+
+Complete at least 8 additional hours of acceptable Natural Science electives to make the required 17 hours. Do not repeat any course(s) completed from the above science sequences. 
+* [x] EBIO 1210-3, General Biology 1 (credits transferred from HS)
+* [x] EBIO 1220-3, General Biology 2 (credits transferred from HS)
+* [x] EBIO 1230-1, General Biology Laboratory 1 (credits transferred from HS)
+* [x] EBIO 1240-1, General Biology Laboratory 2 (credits transferred from HS)
+
 ## Theoretical Standing
 If all goes according to plan, I'll graduate with a B.S. in Applied Math and a minor in Computer Science in 2020. I'll have earned:
 * 129 credit hours
