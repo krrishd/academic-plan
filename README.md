@@ -190,12 +190,30 @@ Satisfying all the other course requirements as described above typically adds u
     * Prerequisites: 2 of the following: PSYC 2145, LING 2000, CSCI 1300, PHIL 2440 (a minimum of 3 additional units)
 
 ### Computer Science Focus Area
+
+Two of the following courses in Computer Science:
 * [x] CSCI 3002-3, Human-Centered Computing Foundations
-* [ ] CSCI 3202-3, Artificial Intelligence 
+* [x] CSCI 3202-3, Artificial Intelligence 
     * Prerequisites: CSCI 3104-4, 3155-4
 * [ ] CSCI 4202-3, Artificial Intelligence 2 
     * Prerequisite: CSCI 3202-3
 * [ ] CSCI 4830-3, Special Topics: Learning and Collaboration
+
+### Psychology Focus Area
+
+Minimum of 7 units:
+* [ ] PSYC 4032-3, Neurobiology of Learning and Memory 
+    * Prerequisites: PSYC 2012, or 4052, or IPHY 3730, or instructor consent
+* [ ] PSYC 4145-4, Cognitive Psychology
+    * Prerequisites: PSYC 1001-3, 2145-3, 3101-4, AND one of the following five courses in experimental psychology:
+* [ ] PSYC 4155, Cognitive Neuroscience/Neuropsychology 
+    * Prerequisites: PSYC 1001, 2012, 2145 and 3101
+* [x] PSYC 4165-4, Psychology of Perception
+    * Prerequisites: PSYC 1001-3, 3101-4
+* [ ] PSYC 4175-3, Computational Cognitive Neuroscience
+    * Prerequisites: PSYC 1001-3, 2145-3, 3101-4, 2012-3
+* [x] PSYC 4220, Language & Mind
+    * Prerequisites: PSYC 1001, LING 2000* [ ] 
 
 
 ## Theoretical Standing
