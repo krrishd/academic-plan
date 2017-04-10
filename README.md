@@ -23,36 +23,6 @@ Personal coursework and schedule for University of Colorado Boulder
 | PSCI 1101 – Intro to American Politics      | 3   |                                                                 |     |
 |                                             | 16  |                                                                 | 15  |
 
-### 2017-2018
-|                Fall Semester                | Hrs |                         Spring Semester                         | Hrs |
-|---------------------------------------------|:---:|-----------------------------------------------------------------|:---:|
-| APPM 2350 – Calculus 3                      | 4   | APPM 2360 – Linear Alg & Diff. Eq.                              | 4   |
-| PHYS 1120 – General Physics 2               | 4   | APPM 3310 – Matrix Methods                                      | 3   |
-| PHYS 1140 – Experimental Physics            | 1   | APPM 3570 - Applied Probability                                 | 4   |
-| APPM 3170 - Discrete Applied Math           | 3   | PSYC 2145 - Introductory Cognitive Psychology                   | 3   |
-| PSYC 1001 – General Psychology              | 4   | PSYC 2012 – Biological Psychology                               | 3   |
-|                                             | 16  |                                                                 | 17  |
-
-### 2018-2019
-|                Fall Semester                | Hrs |                         Spring Semester                         | Hrs |
-|---------------------------------------------|:---:|-----------------------------------------------------------------|:---:|
-| APPM 4350 – Meth. in Appl. Math 1           | 3   | APPM 3050 - Scientific Computing in Matlab                      | 3   |
-| APPM 4440 – Applied Analysis                | 3   | APPM 4450 - Undergraduate Applied Analysis 2                    | 3   |
-| CSCI 3104 – Algorithms                      | 4   | CSCI 3002 - Human-Centered Computing Foundations                | 3   |
-| CSCI 3202 – Intro to AI                     | 3   | CSCI 2400 - Computer Systems                                    | 4   |
-| CSCI 3702 – Cognitive Science               | 3   | PSYC 3131 - Human Emotion                                       | 3   |
-|                                             | 16  |                                                                 | 16  |
-
-### 2019-2020
-|                           Fall Semester                           | Hrs |              Spring Semester                               | Hrs |
-|-------------------------------------------------------------------|:---:|------------------------------------------------------------|:---:|
-| APPM 4650 – Inter. Num. Analysis 1                                | 3   | APPM 4660 – Inter. Num. Analysis 2                         | 3   |
-| APPM 4520 - Introduction to Mathematical Statistics               | 3   | APPM 4580 - Statistical Applications: Software and Methods | 3   |
-| APPM 4560 – Markov Processes, Queues, and Monte Carlo Simulations | 3   | APPM 4720 – Open Topics in Mathematics                     | 3   |
-| APPM 4380 – Modeling in Applied Mathematics                       | 3   | PSYC 3456 – Psychology of Personality                      | 3   |
-| HUEN 3100 - Advanced Humanities for Engineers: The Human Quest    | 3   | PSYC 3112 - Behavioral Genetics II                         | 3   |
-| PSYC 3102 - Behavioral Genetics                                   | 3   |                                                            |     |
-|                                                                   | 18  |                                                            | 15  |
 
 ## Requirements
 The B.S. degree in Applied Mathematics requires the completion of a minimum of 128 credit hours of acceptable coursework with cumulative and major grade point averages of C (2.25) or better. Students must complete the following minimum requirements:
