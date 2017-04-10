@@ -5,7 +5,7 @@ Personal coursework and schedule for University of Colorado Boulder
   * [2017-2018](#2017-2018)
   * [2018-2019](#2018-2019)
   * [2019-2020](#2019-2020)
-* [Requirements](#requirements)
+* [CS Requirements](#cs-requirements)
   * [Foundation](#foundation)
   * [Core](#core)
   * [Electives](#electives)
@@ -24,20 +24,7 @@ Personal coursework and schedule for University of Colorado Boulder
 |                                             | 16  |                                                                 | 15  |
 
 
-## Requirements
-The B.S. degree in Applied Mathematics requires the completion of a minimum of 128 credit hours of acceptable coursework with cumulative and major grade point averages of C (2.25) or better. Students must complete the following minimum requirements:
-
-* A minimum of 24 credits in APPM or MATH courses (including the required courses):
-  * Numbered 3000+
-  * No more than 3 credits of APPM 4840 may count towards these 24
-  * No more than six credits of independent study are allowed for credit
-
-* A minimum of 24 credits in engineering courses (or approved courses with significant mathematical content in A&S or Business) with:
-  * 15 or more credits in courses numbered 2000+
-  * At least 6 credits in courses numbered 3000+
-  * These 24 credits are in addition to those required credits listed below under [computing](#computing) and [science](#science).
-
-Courses I've **bolded** are ones I plan to take.
+## CS Requirements
 
 ### Foundation
 
