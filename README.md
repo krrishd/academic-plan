@@ -10,6 +10,11 @@ Personal coursework and schedule for University of Colorado Boulder
   * [Core](#core)
   * [Electives](#electives)
   * [Humanities and Social Sciences](#humanities-and-social-sciences)
+* [Math Requirements](#math-requirements)
+  * [Calculus](#calculus)
+  * [Discrete](#discrete-math)
+  * [Linear Algebra](#linear-algebra)
+  * [Probability/Stats](#probability-or-statistics)
 * [Theoretical Standing](#theoretical-standing)
 
 ## Classes
@@ -91,16 +96,45 @@ Entrepreneurial Project (two semesters: beginning fall, ending spring):
 
 This sequence must be taken contiguously and may not be taken before the senior year. Prerequisites for Senior Project include the successful completion of the college writing requirement, as well as the Computer Science Foundation (24 credit hours) plus Computer Science Core and Elective courses to reach a minimum of 36 Computer Science credit hours.  
 
-### Humanities and Social Sciences
-* 18 credits required by the College of Engineering and Applied Sciences
-* 3 of those 18 credits  must satisfy the writing requirement
-  * [x] HUEN 1010 (first-year freshmen only)
-  * [ ] WRTG 3030
-  * [ ] WRTG 3035
-  * [ ] HUEN 3100
-  * [ ] PHYS 3050
-* At least 9 credit hours must be numbered 3000+
-* A complete list of courses that can be used to satisfy this requirement can be found at http://www.colorado.edu/engineering/academics/policies/hss
+## Math Requirements
+
+### Calculus
+
+Must take both courses:
+
+* [x] APPM 1350-4, Calculus 1 for Engineers or MATH 1300-5, Calculus 1
+* [x] APPM 1360-4, Calculus 2 for Engineers or MATH 2300-5, Calculus 2
+
+### Discrete Math
+
+Take one of the following courses:
+
+* [x] CSCI 2824-3, Discrete Structures
+* [ ] ECEN 2703-3, Discrete Mathematics for Computer Engineers
+* [ ] APPM 3170-3, Discrete Applied Mathematics
+
+### Linear Algebra
+
+Take one of the following courses:
+
+* [x] CSCI 2820-3, Linear Algebra with CS Applications
+* [ ] MATH 3130-3, Intro to Linear Algebra.
+* [ ] APPM 3310-3, Matrix Methods and Applications.
+
+### Probability or Stats
+
+Take one of the following courses:
+
+* [ ] APPM 4570-3, Statistical Methods
+* [ ] CSCI 3022-3, Data Science Algorithms (can count for probability/statistics requirement OR CS elective, but not both)
+* [ ] APPM 3570-3, Applied Probability
+* [ ] APPM 4520-3, Introduction to Mathematical Statistics
+* [ ] CVEN 3227-3, Probability, Statistics and Decision
+* [x] MATH 3510-3, Introduction to Probability and Statistics
+* [ ] MATH 4510-3, Introduction to Probability Theory
+* [ ] ECEN 3810-3, Introduction to Probability Theory.
+* [ ] ECON 3818-3, Introduction to Statistics w/ Computer Applications
+* [ ] MCEN 4120-3, Engineering Statistics
 
 ## Theoretical Standing
 If all goes according to plan, I'll graduate with a B.S. in Applied Math and a minor in Computer Science in 2020. I'll have earned:
