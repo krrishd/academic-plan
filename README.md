@@ -15,6 +15,9 @@ Personal coursework and schedule for University of Colorado Boulder
   * [Discrete](#discrete-math)
   * [Linear Algebra](#linear-algebra)
   * [Probability/Stats](#probability-or-statistics)
+* [Natural Science Requirements](#natural-science-requirements)
+* [Humanities Requirements](#humanities-requirements)
+* [Free Electives](#free-electives)
 * [Theoretical Standing](#theoretical-standing)
 
 ## Classes
@@ -151,6 +154,21 @@ Complete at least 8 additional hours of acceptable Natural Science electives to 
 * [x] EBIO 1220-3, General Biology 2 (credits transferred from HS)
 * [x] EBIO 1230-1, General Biology Laboratory 1 (credits transferred from HS)
 * [x] EBIO 1240-1, General Biology Laboratory 2 (credits transferred from HS)
+
+## Humanities Requirements
+
+Three credits of approved writing:
+* [x] WRTG 3030-3, Writing on Science and Society
+* [ ] WRTG 3035-3, Technical Communication and Design
+* [ ] HUEN 1010-3, Introduction to the Humanities (first-year freshmen only)
+* [ ] HUEN 3100-3, Humanities for Engineers 1
+* [ ] PHYS 3050-3, Writing in Physics: Problem-Solving and Rhetoric
+
+At least six of the remaining 21 credit hours must be at the upper-division undergraduate level or above, i.e. numbered 3000 or above. Upper-division writing does not count towards this 6 credits of upper division coursework. See the College of Engineering and Applied Science H/SS requirements for a list of approved courses and more details.
+
+## Free Electives
+
+Satisfying all the other course requirements as described above typically adds up to a minimum of 116 credit hours, the exact number depending on specific courses selected and/or transfer credit. Students take “free electives” to reach the required minimum 128 total credits. All courses are considered acceptable free electives; however, co-op work experience does not count towards these 128 hours, nor does any other work experience.
 
 ## Theoretical Standing
 If all goes according to plan, I'll graduate with a B.S. in Applied Math and a minor in Computer Science in 2020. I'll have earned:
