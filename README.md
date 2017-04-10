@@ -43,6 +43,16 @@ Personal coursework and schedule for University of Colorado Boulder
 | CSCI 3308 – Software Dev & Tools            | 3   |                                                                 |     |
 |                                             | 17  |                                                                 | 16  |
 
+### 2018-2019
+|                Fall Semester                | Hrs |                         Spring Semester                         | Hrs |
+|---------------------------------------------|:---:|-----------------------------------------------------------------|:---:|
+| CSCI 3155 – Principles of Prog. Languages   | 4   | CSCI 4253 – Data-Center Scale Computing                         | 3   |
+| CSCI 3202 – Artificial Intelligence         | 3   | ATLS 4214 – Big Data Architecture                               | 3   |
+| CSCI 4502 – Data Mining                     | 3   | CSCI 4830 – Special Topics in Computer Science                  | 3   |
+| CSCI 3702 – Cognitive Science               | 3   | WRTG 3030 - Writing on Science & Society                        | 3   |                            
+| LING 2000 - Intro to Linguistics            | 3   | PSYC 3101 - Stats/Research in Psychology                        | 4   |
+|                                             | 16  |                                                                 | 16  |
+
 ## CS Requirements
 
 ### Foundation
@@ -51,10 +61,10 @@ All of the following courses are required:
 * [x] CSCI 1000-1, Computer Science as a Field of Work and Study
 * [x] CSCI 1300-4, Computer Science 1: Starting Computing (or equivalent)
 * [x] CSCI 2270-4, Computer Science 2: Data Structures
-* [ ] CSCI 2400-4, Computer Systems
-* [ ] CSCI 3104-4, Algorithms
-* [ ] CSCI 3155-4, Principles of Programming Languages
-* [ ] CSCI 3308-3, Software Development Methods and Tools
+* [x] CSCI 2400-4, Computer Systems
+* [x] CSCI 3104-4, Algorithms
+* [x] CSCI 3155-4, Principles of Programming Languages
+* [x] CSCI 3308-3, Software Development Methods and Tools
 
 ### Core
 
@@ -186,7 +196,7 @@ Satisfying all the other course requirements as described above typically adds u
 ### Core Course Requirements
 * [x] PSYC 2145-3, Introduction to Cognitive Psychology
     * Prerequisites: PSYC 1001-3 or 4 units
-* [ ] CSCI 3702, PHIL 3310, LING 3005, PSYC 3005, Introduction to Cognitive Science
+* [x] CSCI 3702, PHIL 3310, LING 3005, PSYC 3005, Introduction to Cognitive Science
     * Prerequisites: 2 of the following: PSYC 2145, LING 2000, CSCI 1300, PHIL 2440 (a minimum of 3 additional units)
 
 ### Computer Science Focus Area
