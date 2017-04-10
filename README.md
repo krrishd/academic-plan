@@ -69,25 +69,25 @@ All of the following courses are required:
 ### Core
 
 Six of the following courses are required:
-* [ ] CSCI 3002-3, Human-Centered Computing Foundations/User-Centered Design & Development
-* [ ] CSCI 3202-3, Introduction to Artificial Intelligence
+* [x] CSCI 3002-3, Human-Centered Computing Foundations/User-Centered Design & Development
+* [x] CSCI 3202-3, Introduction to Artificial Intelligence
 * [ ] CSCI 3287-3, Design & Analysis of Data Systems
 * [ ] CSCI 3302-3, Introduction to Robotics
 * [ ] CSCI 3434-3, Theory of Computation
 * [ ] CSCI 3656-3, Numerical Computation or APPM 4650, Intermediate Numerical Analysis 1 (only one of these will count towards the CSEN-BS)
-* [ ] CSCI 3702-3, Cognitive Science
+* [x] CSCI 3702-3, Cognitive Science
 * [ ] CSCI 3753-4, Design & Analysis of Operating Systems
 * [ ] CSCI 3832-3, Machine Translation
 * [ ] CSCI 4229-3, Computer Graphics
 * [ ] CSCI 4239-3, Advanced Computer Graphics
-* [ ] CSCI 4253-3, Datacenter Scale Computing
+* [x] CSCI 4253-3, Datacenter Scale Computing
 * [ ] CSCI 4273-3, Network Systems
 * [ ] CSCI 4302-3, Advanced Robotics
 * [ ] CSCI 4314-3, Algorithms for Molecular Biology
 * [ ] CSCI 4413-3, Computer Security & Ethical Hacking
 * [ ] CSCI 4446-3, Chaotic Dynamics
 * [ ] CSCI 4448-3, Object-Oriented Analysis and Design
-* [ ] CSCI 4502-3, Data Mining
+* [x] CSCI 4502-3, Data Mining
 * [ ] CSCI 4555-3, Compiler Construction
 * [ ] CSCI 4576-4, High-Performance Scientific Computing 1
 * [ ] CSCI 4586-4, High-Performance Scientific Computing 2
@@ -103,10 +103,10 @@ Six of the following courses are required:
 Additional courses from the below list to bring the total number of computer science credit hours to 58 or more.
 
 * [x] ATLS 4120-3, Mobile Application Development (formerly offered as ATLS 4519 Special Topics: Mobile App Dev; only one of these will count toward the CSEN-BS) 
-* [ ] ATLS 4214-3, Big Data Architecture (formerly offered as CSCI 4830 Special Topics: Big Data or ATLS 4519 Special Topics: Big Data; only one of these will count toward the CSEN-BS)
+* [x] ATLS 4214-3, Big Data Architecture (formerly offered as CSCI 4830 Special Topics: Big Data or ATLS 4519 Special Topics: Big Data; only one of these will count toward the CSEN-BS)
 * [ ] CSCI 3112-1, Human-Centered Computing Professional Development
 * [ ] CSCI 3022-3, Data Science Algorithms (can count for probability/statistics requirement OR CS elective credit, but not both)
-* [ ] CSCI 4830-3, Special Topics in Computer Science
+* [x] CSCI 4830-3, Special Topics in Computer Science
 * [ ] CSCI 4831-3 Special Topics in Algorithms
 * [ ] CSCI 4900-3, Upper Division, Undergraduate Independent Study
 * [ ] APPM 4120/MATH 4120-3, Introduction to Operations Research
@@ -115,8 +115,8 @@ Additional courses from the below list to bring the total number of computer sci
 
 Entrepreneurial Project (two semesters: beginning fall, ending spring):
 
-* [ ] CSCI 4348-4, Startup Essentials: Entrepreneurial Projects 1 and 
-* [ ] CSCI 4358-4, Entrepreneurial Projects 2
+* [x] CSCI 4348-4, Startup Essentials: Entrepreneurial Projects 1 and 
+* [x] CSCI 4358-4, Entrepreneurial Projects 2
 
 This sequence must be taken contiguously and may not be taken before the senior year. Prerequisites for Senior Project include the successful completion of the college writing requirement, as well as the Computer Science Foundation (24 credit hours) plus Computer Science Core and Elective courses to reach a minimum of 36 Computer Science credit hours.  
 
