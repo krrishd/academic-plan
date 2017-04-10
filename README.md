@@ -244,8 +244,4 @@ Minimum of 7 units:
 
 
 ## Theoretical Standing
-If all goes according to plan, I'll graduate with a B.S. in Applied Math and a minor in Computer Science in 2020. I'll have earned:
-* 129 credit hours
-* 27 CSCI credit hours (enough for the minor)
-* 28 humanities and social sciences credit hours
-* 10 science credits (2 of which are labs)
+If all goes according to plan, I'll graduate with a B.S. in Computer Science and a certificate in Cognitive Science.
