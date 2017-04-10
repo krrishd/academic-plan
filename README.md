@@ -34,12 +34,13 @@ Personal coursework and schedule for University of Colorado Boulder
 ### 2017-2018
 |                Fall Semester                | Hrs |                         Spring Semester                         | Hrs |
 |---------------------------------------------|:---:|-----------------------------------------------------------------|:---:|
-| CSCI 2400 – Computer Systems                | 4   | APPM 1360 – Calculus 2                                          | 4   |
-| PHYS 1110 – Physics for Engineers           | 4   | PHYS 1120 – Physics 2 for Engineers                             | 4   |
-| CSCI 1000 – CS as A Field Of Study          | 1   | CSCI 2270 – Data Structures                                     | 4   |
-| CSCI 1300 – Computer Sci 1: Programming     | 4   | PSCI 2004 – Survey of Western Political Thought                 | 3   |
-| PSCI 1101 – Intro to American Politics      | 3   |                                                                 |     |
-|                                             | 16  |                                                                 | 15  |
+| CSCI 2400 – Computer Systems                | 4   | CSCI 3104 – Algorithms                                          | 4   |
+| CSCI 2824 – Discrete Structures             | 3   | MATH 3510 – Intro to Probability and Statistics                 | 3   |
+| CSCI 3002 – Human-Centered Computing        | 3   | CSCI 2270 – Linear Algebra w/ CS Applications                   | 3   |
+| PHYS 1140 – Experimental Physics Lab        | 1   | PSYC 2145 - Introductory Cognitive Psychology                   | 3   |                            
+| PSYC 1001 - General Psychology              | 3   | ATLS 4120 - Mobile App Development                              | 3   |
+| CSCI 3308 – Software Dev & Tools            | 3   |                                                                 |     |
+|                                             | 17  |                                                                 | 16  |
 
 ## CS Requirements
 
@@ -90,7 +91,7 @@ Six of the following courses are required:
  
 Additional courses from the below list to bring the total number of computer science credit hours to 58 or more.
 
-* [ ] ATLS 4120-3, Mobile Application Development (formerly offered as ATLS 4519 Special Topics: Mobile App Dev; only one of these will count toward the CSEN-BS) 
+* [x] ATLS 4120-3, Mobile Application Development (formerly offered as ATLS 4519 Special Topics: Mobile App Dev; only one of these will count toward the CSEN-BS) 
 * [ ] ATLS 4214-3, Big Data Architecture (formerly offered as CSCI 4830 Special Topics: Big Data or ATLS 4519 Special Topics: Big Data; only one of these will count toward the CSEN-BS)
 * [ ] CSCI 3112-1, Human-Centered Computing Professional Development
 * [ ] CSCI 3022-3, Data Science Algorithms (can count for probability/statistics requirement OR CS elective credit, but not both)
