@@ -6,9 +6,9 @@ Personal coursework and schedule for University of Colorado Boulder
   * [2018-2019](#2018-2019)
   * [2019-2020](#2019-2020)
 * [Requirements](#requirements)
-  * [Calculus](#calculus)
-  * [Computing](#computing)
-  * [Science](#science)
+  * [Foundation](#foundation)
+  * [Core](#core)
+  * [Electives](#electives)
   * [Humanities and Social Sciences](#humanities-and-social-sciences)
 * [Theoretical Standing](#theoretical-standing)
 
@@ -39,71 +39,70 @@ The B.S. degree in Applied Mathematics requires the completion of a minimum of 1
 
 Courses I've **bolded** are ones I plan to take.
 
-### Calculus
-Three semesters of Calculus.
-  * [x] APPM 1350 or MATH 1300
-  * [ ] **APPM 1360** or MATH 2300
-  * [ ] **APPM 2350** or MATH 2400
+### Foundation
 
-### Computing
-One of the following:
-  * [x] CSCI 1300
-  * [ ] GEEN 1300
-  * [ ] ECEN 1310
+All of the following courses are required:
+* [x] CSCI 1000-1, Computer Science as a Field of Work and Study
+* [x] CSCI 1300-4, Computer Science 1: Starting Computing (or equivalent)
+* [x] CSCI 2270-4, Computer Science 2: Data Structures
+* [ ] CSCI 2400-4, Computer Systems
+* [ ] CSCI 3104-4, Algorithms
+* [ ] CSCI 3155-4, Principles of Programming Languages
+* [ ] CSCI 3308-3, Software Development Methods and Tools
 
-_Note: I'm a Computer Science option, so the credits below are credits specific to my option._
+### Core
 
-Complete one of the following:
-* [ ] CSCI 1300, Computer Science 1: Starting Computing.
-* [x] CSCI 1310, Computer Science 1: Starting Computing - Experienced.
-* [ ] CSCI 1320, Computer Science 1: Starting Computing - Engineering.
-* [ ] ECEN 1310, C & MATLAB Programming for ECE
+Six of the following courses are required:
+* [ ] CSCI 3002-3, Human-Centered Computing Foundations/User-Centered Design & Development
+* [ ] CSCI 3202-3, Introduction to Artificial Intelligence
+* [ ] CSCI 3287-3, Design & Analysis of Data Systems
+* [ ] CSCI 3302-3, Introduction to Robotics
+* [ ] CSCI 3434-3, Theory of Computation
+* [ ] CSCI 3656-3, Numerical Computation or APPM 4650, Intermediate Numerical Analysis 1 (only one of these will count towards the CSEN-BS)
+* [ ] CSCI 3702-3, Cognitive Science
+* [ ] CSCI 3753-4, Design & Analysis of Operating Systems
+* [ ] CSCI 3832-3, Machine Translation
+* [ ] CSCI 4229-3, Computer Graphics
+* [ ] CSCI 4239-3, Advanced Computer Graphics
+* [ ] CSCI 4253-3, Datacenter Scale Computing
+* [ ] CSCI 4273-3, Network Systems
+* [ ] CSCI 4302-3, Advanced Robotics
+* [ ] CSCI 4314-3, Algorithms for Molecular Biology
+* [ ] CSCI 4413-3, Computer Security & Ethical Hacking
+* [ ] CSCI 4446-3, Chaotic Dynamics
+* [ ] CSCI 4448-3, Object-Oriented Analysis and Design
+* [ ] CSCI 4502-3, Data Mining
+* [ ] CSCI 4555-3, Compiler Construction
+* [ ] CSCI 4576-4, High-Performance Scientific Computing 1
+* [ ] CSCI 4586-4, High-Performance Scientific Computing 2
+* [ ] CSCI 4593-3, Computer Organization
+* [ ] CSCI 4753-3, Computer Performance Modeling
+* [ ] CSCI 4809-3, Computer Animation
+* [ ] ECEN 2350-3, Digital Logic
+* [ ] ECEN 4613-3, Embedded System Design
+* [ ] TLEN 5842-3, Linux Systems Administration (formerly CSCI 4113 or TLEN 5833 Topics; only one of these will count toward the CSEN-BS)
 
-Complete one of the following Discrete Math courses:
-* [ ] CSCI 2824, Discrete Structures.  Grade of C- or better.  
-* [ ] ECEN 2703, Discrete Mathematics for Computer Engineers.
-* [ ] If you have completed a different discrete math course, please see an advisor for the Computer Science - BS.
-* **Note:** I'm going to take **APPM 3170** to satisfy this requirement.
+### Electives
+ 
+Additional courses from the below list to bring the total number of computer science credit hours to 58 or more.
 
-Complete:  
-  * [ ] **CSCI 2270** (4) Computer Science 2: Data Structures (with a grade of C- or better)
-  * [ ] **CSCI 2400**, Computer Systems. Grade of C- or better.
+* [ ] ATLS 4120-3, Mobile Application Development (formerly offered as ATLS 4519 Special Topics: Mobile App Dev; only one of these will count toward the CSEN-BS) 
+* [ ] ATLS 4214-3, Big Data Architecture (formerly offered as CSCI 4830 Special Topics: Big Data or ATLS 4519 Special Topics: Big Data; only one of these will count toward the CSEN-BS)
+* [ ] CSCI 3112-1, Human-Centered Computing Professional Development
+* [ ] CSCI 3022-3, Data Science Algorithms (can count for probability/statistics requirement OR CS elective credit, but not both)
+* [ ] CSCI 4830-3, Special Topics in Computer Science
+* [ ] CSCI 4831-3 Special Topics in Algorithms
+* [ ] CSCI 4900-3, Upper Division, Undergraduate Independent Study
+* [ ] APPM 4120/MATH 4120-3, Introduction to Operations Research
 
-Complete 6 or more hours of Computer Science electives to make the required 21 hours:
-  * [ ] **CSCI 3002**, Human-Centered Computing Foundations.
-  * [ ] **CSCI 3104**, Algorithms.
-  * [ ] **CSCI 3202**, Introduction to Artificial Intelligence.
-  * [ ] CSCI 3656, Numerical Computation or **APPM 4650**, Intermediate Numerical Analysis I. (Only one of these will count towards the CS minor)
-  * [ ] **CSCI 3702**, Cognitive Science.  
+### Capstone
 
-### Science
-  * [x] PHYS 1110
-  * [ ] **PHYS 1120**
-  * [ ] **PHYS 1140**
-  * 5 additional credit hours (including 2 credits of laboratory science) from one of the following:
-    * [x] CHEN 1211 and CHEM 1221
-    * [ ] CHEM 1113 and CHEM 1114
-    * [ ] EBIO 1210, 1220, 1230, and 1240
-    * [ ] MCDB 1150, 1151, 2150, and 2151
-  * Students choosing degree options 3c or 3d must be enrolled in (or have completed) PHYS 1120 at the time of their IUT application
+Entrepreneurial Project (two semesters: beginning fall, ending spring):
 
-### APPM
-_*Note*: Students who have completed MATH 3000, 3200, or 4130 have satisfied this requirement._
-1. One of the following courses:
-  * [ ] **APPM 2360** (Differential Equations with Linear Algebra.)
-  * [ ] **APPM 3310** (Matrix Methods)
-  * [ ] **APPM 4350** (Methods in Applied Mathematics I)
-  * [ ] **APPM 4360** (Methods in Applied Mathematics II)
-  * [ ] **APPM 4650** (Intermediate Numerical Analysis I)
-  * [ ] **APPM 4440** or MATH 3001 or MATH 3140
+* [ ] CSCI 4348-4, Startup Essentials: Entrepreneurial Projects 1 and 
+* [ ] CSCI 4358-4, Entrepreneurial Projects 2
 
-2. A two semester course sequence of applied mathematics or mathematics courses numbered 4000 or above in addition to APPM 4350 and 4360. Possible sequences include:
-  * [ ] **APPM 4650**/**4660**
-  * [ ] **APPM 4570**/**4580**
-  * [ ] **APPM 4560**/**4520**
-  * [ ] **APPM 4440**/**4450**
-  * [ ] **APPM 4380**/4390
-  * [ ] **APPM 3570** and **APPM 4520**/**APPM 4560**
+This sequence must be taken contiguously and may not be taken before the senior year. Prerequisites for Senior Project include the successful completion of the college writing requirement, as well as the Computer Science Foundation (24 credit hours) plus Computer Science Core and Elective courses to reach a minimum of 36 Computer Science credit hours.  
 
 ### Humanities and Social Sciences
 * 18 credits required by the College of Engineering and Applied Sciences
