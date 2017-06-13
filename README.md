@@ -37,7 +37,7 @@ Personal coursework and schedule for University of Colorado Boulder
 |---------------------------------------------|:---:|-----------------------------------------------------------------|:---:|
 | CSCI 2400 – Computer Systems                | 4   | CSCI 3104 – Algorithms                                          | 4   |
 | CSCI 2824 – Discrete Structures             | 3   | MATH 3510 – Intro to Probability and Statistics                 | 3   |
-| CSCI 3002 – Human-Centered Computing        | 3   | CSCI 2270 – Linear Algebra w/ CS Applications                   | 3   |
+| CSCI 2270 – Linear Algebra w/ CS Applications| 3  | CSCI 3002 – Human-Centered Computing                           | 3   |
 | PHYS 1140 – Experimental Physics Lab        | 1   | PSYC 2145 - Introductory Cognitive Psychology                   | 3   |                            
 | PSYC 1001 - General Psychology              | 3   | ATLS 4120 - Mobile App Development                              | 3   |
 | CSCI 3308 – Software Dev & Tools            | 3   |                                                                 |     |
