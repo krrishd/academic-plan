@@ -39,7 +39,7 @@ Personal coursework and schedule for University of Colorado Boulder
 | CSCI 2824 – Discrete Structures             | 3   | CSCI 3022 – Data Science Algorithms                             | 3   |
 | CSCI 2270 – Linear Algebra w/ CS Applications| 3  | CSCI 3002 – Human-Centered Computing                            | 3   |
 | PHYS 1140 – Experimental Physics Lab        | 1   | PSYC 2145 - Introductory Cognitive Psychology                   | 3   |                            
-| PSYC 1001 - General Psychology              | 3   | ATLS 4120 - Mobile App Development                              | 3   |
+| PSYC 1001 - General Psychology              | 3   | INFO 3504 - Problems in Info Science: Digital Identity          | 3   |
 | CSCI 3308 – Software Dev & Tools            | 3   |                                                                 |     |
 |                                             | 17  |                                                                 | 16  |
 
@@ -117,7 +117,8 @@ Six of the following courses are required:
  
 Additional courses from the below list to bring the total number of computer science credit hours to 58 or more.
 
-* [x] ATLS 4120-3, Mobile Application Development (formerly offered as ATLS 4519 Special Topics: Mobile App Dev; only one of these will count toward the CSEN-BS) 
+* [] ATLS 4120-3, Mobile Application Development (formerly offered as ATLS 4519 Special Topics: Mobile App Dev; only one of these will count toward the CSEN-BS) 
+* [x] INFO 3504-3, Problems in Information Science: Digital Identity
 * [x] ATLS 4214-3, Big Data Architecture (formerly offered as CSCI 4830 Special Topics: Big Data or ATLS 4519 Special Topics: Big Data; only one of these will count toward the CSEN-BS)
 * [ ] CSCI 3112-1, Human-Centered Computing Professional Development
 * [ ] CSCI 3022-3, Data Science Algorithms (can count for probability/statistics requirement OR CS elective credit, but not both)
