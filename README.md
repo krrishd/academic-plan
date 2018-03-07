@@ -126,6 +126,9 @@ Additional courses from the below list to bring the total number of computer sci
 * [ ] CSCI 4831-3 Special Topics in Algorithms
 * [ ] CSCI 4900-3, Upper Division, Undergraduate Independent Study
 * [ ] APPM 4120/MATH 4120-3, Introduction to Operations Research
+* [] INFO 4602-3, Mastery in Information Science: Information Visualization
+* [] INFO 4604-3, Applied Machine Learning
+
 
 ### Capstone
 
