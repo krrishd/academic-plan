@@ -48,7 +48,7 @@ Personal coursework and schedule for University of Colorado Boulder
 |---------------------------------------------|:---:|-----------------------------------------------------------------|:---:|
 | CSCI 3155 – Principles of Prog. Languages   | 4   | CSCI 4229 – Computer Graphics                                   | 3   |
 | CSCI 3202 – Artificial Intelligence         | 3   | ATLS 4214 – Big Data Architecture                               | 3   |
-| CSCI 4502 – Data Mining                     | 3   | CSCI 4830 – Special Topics in Computer Science                  | 3   |
+| CSCI 4502 – Data Mining                     | 3   | INFO 4604 – Applied Machine Learning                            | 3   |
 | CSCI 3702 – Cognitive Science               | 3   | WRTG 3030 - Writing on Science & Society                        | 3   |                            
 | LING 2000 - Intro to Linguistics            | 3   | PSYC 3101 - Stats/Research in Psychology                        | 4   |
 |                                             | 16  |                                                                 | 16  |
@@ -122,12 +122,12 @@ Additional courses from the below list to bring the total number of computer sci
 * [x] ATLS 4214-3, Big Data Architecture (formerly offered as CSCI 4830 Special Topics: Big Data or ATLS 4519 Special Topics: Big Data; only one of these will count toward the CSEN-BS)
 * [ ] CSCI 3112-1, Human-Centered Computing Professional Development
 * [ ] CSCI 3022-3, Data Science Algorithms (can count for probability/statistics requirement OR CS elective credit, but not both)
-* [x] CSCI 4830-3, Special Topics in Computer Science
+* [ ] CSCI 4830-3, Special Topics in Computer Science
 * [ ] CSCI 4831-3 Special Topics in Algorithms
 * [ ] CSCI 4900-3, Upper Division, Undergraduate Independent Study
 * [ ] APPM 4120/MATH 4120-3, Introduction to Operations Research
-* [] INFO 4602-3, Mastery in Information Science: Information Visualization
-* [] INFO 4604-3, Applied Machine Learning
+* [ ] INFO 4602-3, Mastery in Information Science: Information Visualization
+* [x] INFO 4604-3, Applied Machine Learning
 
 
 ### Capstone
