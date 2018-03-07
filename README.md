@@ -58,8 +58,8 @@ Personal coursework and schedule for University of Colorado Boulder
 |---------------------------------------------|:---:|-----------------------------------------------------------------|:---:|
 | CSCI 4348 – Startup Essentials              | 4   | CSCI 4358 – Entrepreneurial Projects 2                          | 4   |
 | CSCI 3287 – Design/Analysis of Data Systems | 3   | PSYC 4220 - Language & Mind                                     | 3   |
-| PSYC 4165 – Psychology of Perception        | 4   | ECON 3070 - Intermediate Microeconomics                         | 3   |
-| ECON 2010 - Microeconomics                  | 4   |
+| PSYC 4165 – Psychology of Perception        | 4   | CSCI 4250 - Computer Science - The Canon (Humanities credit)    | 3   |
+| ANTH 3170 - America: An Anthropological Perspective | 4   |
 |                                             | 15  |                                                                 | 10  |
 
 * **College Total**: 114
