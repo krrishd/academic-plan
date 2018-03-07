@@ -49,7 +49,7 @@ Personal coursework and schedule for University of Colorado Boulder
 | CSCI 3155 – Principles of Prog. Languages   | 4   | CSCI 3832 – Machine Translation                                 | 3   |
 | CSCI 3202 – Artificial Intelligence         | 3   | ATLS 4214 – Big Data Architecture                               | 3   |
 | CSCI 4502 – Data Mining                     | 3   | INFO 4604 – Applied Machine Learning                            | 3   |
-| CSCI 3702 – Cognitive Science               | 3   | WRTG 3030 - Writing on Science & Society                        | 3   |                            
+| CSCI 3702 – Cognitive Science               | 3   | WRTG 3030 - Writing on Science & Society                        | 3   |
 | LING 2000 - Intro to Linguistics            | 3   | PSYC 3101 - Stats/Research in Psychology                        | 4   |
 |                                             | 16  |                                                                 | 16  |
 
@@ -58,8 +58,9 @@ Personal coursework and schedule for University of Colorado Boulder
 |---------------------------------------------|:---:|-----------------------------------------------------------------|:---:|
 | CSCI 4348 – Startup Essentials              | 4   | CSCI 4358 – Entrepreneurial Projects 2                          | 4   |
 | CSCI 3287 – Design/Analysis of Data Systems | 3   | PSYC 4220 - Language & Mind                                     | 3   |
-| PSYC 4165 – Psychology of Perception        | 4   |                                                                 |     |
-|                                             | 11  |                                                                 | 7  |
+| PSYC 4165 – Psychology of Perception        | 4   | ECON 3070 - Intermediate Microeconomics                         | 3   |
+| ECON 2010 - Microeconomics                  | 4   |
+|                                             | 15  |                                                                 | 10  |
 
 * **College Total**: 114
 * **HS Transfer Credits**:30
