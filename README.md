@@ -93,7 +93,7 @@ Six of the following courses are required:
 * [ ] CSCI 3656-3, Numerical Computation or APPM 4650, Intermediate Numerical Analysis 1 (only one of these will count towards the CSEN-BS)
 * [x] CSCI 3702-3, Cognitive Science
 * [ ] CSCI 3753-4, Design & Analysis of Operating Systems
-* [x] CSCI 3832-3, Machine Translation
+* [ ] CSCI 3832-3, Machine Translation
 * [ ] CSCI 4229-3, Computer Graphics
 * [ ] CSCI 4239-3, Advanced Computer Graphics
 * [ ] CSCI 4253-3, Datacenter Scale Computing
@@ -104,6 +104,7 @@ Six of the following courses are required:
 * [ ] CSCI 4446-3, Chaotic Dynamics
 * [ ] CSCI 4448-3, Object-Oriented Analysis and Design
 * [x] CSCI 4502-3, Data Mining
+* [x] CSCI 4831-3 (Can count as core with petition for same credit as CSCI 4622) Special Topics in Algorithms - Undergraduate Machine Learning
 * [ ] CSCI 4555-3, Compiler Construction
 * [ ] CSCI 4576-4, High-Performance Scientific Computing 1
 * [ ] CSCI 4586-4, High-Performance Scientific Computing 2
@@ -124,7 +125,6 @@ Additional courses from the below list to bring the total number of computer sci
 * [ ] CSCI 3112-1, Human-Centered Computing Professional Development
 * [ ] CSCI 3022-3, Data Science Algorithms (can count for probability/statistics requirement OR CS elective credit, but not both)
 * [ ] CSCI 4830-3, Special Topics in Computer Science
-* [x] CSCI 4831-3 Special Topics in Algorithms - Undergraduate Machine Learning
 * [ ] CSCI 4900-3, Upper Division, Undergraduate Independent Study
 * [ ] APPM 4120/MATH 4120-3, Introduction to Operations Research
 * [ ] INFO 4602-3, Mastery in Information Science: Information Visualization
