@@ -62,12 +62,13 @@ Personal coursework and schedule for University of Colorado Boulder
 | PSYC 3101 - Stats/Research in Psychology .  | 4   | ANTH 3170 - America: An Anthropological Perspective             | 4   |
 |                                             | 15  |                                                                 | 14  |
 
-* **College Total**: 114
+* **College Total**: 119
+* **CS Total (subset of college total)**: ~66?
 * **HS Transfer Credits**:30
   * 11 lower-division humanities
   * 8 natl. sciences
   * 11 free electives
-* **Total Total**: 144
+* **Total Total**: 149
 
 ## CS Requirements
 
