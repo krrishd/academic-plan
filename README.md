@@ -46,11 +46,11 @@ Personal coursework and schedule for University of Colorado Boulder
 ### 2018-2019
 |                Fall Semester                | Hrs |                         Spring Semester                         | Hrs |
 |---------------------------------------------|:---:|-----------------------------------------------------------------|:---:|
-| CSCI 3202 – Artificial Intelligence         | 3   | ATLS 4214 – Big Data Architecture                               | 3   |
+| CSCI 3202 - Artificial Intelligence         | 3   | ATLS 4214 – Big Data Architecture                               | 3   |
 | CSCI 4831 - Undergrad Machine Learning      | 3   | CSCI 4502 – Data Mining                                         | 3   |
-| CSCI 3702 – Cognitive Science               | 3   | WRTG 3030 - Writing on Science & Society                        | 3   |
+| CSCI 3702 - Cognitive Science               | 3   | LING 2000 - Intro to Linguistics                                | 3   |
 | CSCI 4229 - Computer Graphics               | 3   | CSCI 3155 - Principles of Prog. Languages                       | 4   |
-| LING 2000 - Intro to Linguistics            | 3   |                                                                 |     |
+| WRTG 3030 - Writing on Science & Society    | 3   |                                                                 |     |
 |                                             | 15  |                                                                 | 13  |
 
 ### 2019-2020
