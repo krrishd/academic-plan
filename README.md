@@ -46,7 +46,7 @@ Personal coursework and schedule for University of Colorado Boulder
 ### 2018-2019
 |                Fall Semester                | Hrs |                         Spring Semester                         | Hrs |
 |---------------------------------------------|:---:|-----------------------------------------------------------------|:---:|
-| CSCI 3155 – Principles of Prog. Languages   | 4   | CSCI 4229 - Computer Graphics                                   | 3   |
+| CSCI 3155 – Principles of Prog. Languages   | 4   | CSCI 4622 - Machine Learning                                    | 3   |
 | CSCI 3202 – Artificial Intelligence         | 3   | ATLS 4214 – Big Data Architecture                               | 3   |
 | INFO 4604 - Applied Machine Learning        | 3   | CSCI 4502 – Data Mining                                         | 3   |
 | CSCI 3702 – Cognitive Science               | 3   | WRTG 3030 - Writing on Science & Society                        | 3   |
@@ -93,7 +93,7 @@ Six of the following courses are required:
 * [ ] CSCI 3656-3, Numerical Computation or APPM 4650, Intermediate Numerical Analysis 1 (only one of these will count towards the CSEN-BS)
 * [x] CSCI 3702-3, Cognitive Science
 * [ ] CSCI 3753-4, Design & Analysis of Operating Systems
-* [x] CSCI 3832-3, Machine Translation
+* [x] CSCI 4622-3, Machine Learning (theoretically will be offered as Core)
 * [ ] CSCI 4229-3, Computer Graphics
 * [ ] CSCI 4239-3, Advanced Computer Graphics
 * [ ] CSCI 4253-3, Datacenter Scale Computing
