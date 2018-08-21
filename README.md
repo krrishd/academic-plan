@@ -51,7 +51,7 @@ Personal coursework and schedule for University of Colorado Boulder
 | INFO 4604 - Applied Machine Learning        | 3   | CSCI 4502 – Data Mining                                         | 3   |
 | WRTG 3030 - Writing on Science & Society    | 3   | LING 2000 - Intro to Linguistics                                | 3   |
 | CSCI 3702 - Cognitive Science               | 3   |                                                                 |     |
-|                                             | 13  |                                                                 | 15  |
+|                                             | 16  |                                                                 | 12  |
 
 ### 2019-2020
 |                Fall Semester                | Hrs |                         Spring Semester                         | Hrs |
