@@ -46,7 +46,7 @@ Personal coursework and schedule for University of Colorado Boulder
 ### 2018-2019
 |                Fall Semester                | Hrs |                         Spring Semester                         | Hrs |
 |---------------------------------------------|:---:|-----------------------------------------------------------------|:---:|
-| CSCI 3155 – Principles of Prog. Languages   | 4   | CSCI 4622 - Machine Learning                                    | 3   |
+| CSCI 3155 – Principles of Prog. Languages   | 4   | CSCI 3287 – Design/Analysis of Data Systems                     | 3   |
 | CSCI 3202 – Artificial Intelligence         | 3   | ATLS 4214 – Big Data Architecture                               | 3   |
 | INFO 4604 - Applied Machine Learning        | 3   | CSCI 4502 – Data Mining                                         | 3   |
 | WRTG 3030 - Writing on Science & Society    | 3   | LING 2000 - Intro to Linguistics                                | 3   |
@@ -57,7 +57,7 @@ Personal coursework and schedule for University of Colorado Boulder
 |                Fall Semester                | Hrs |                         Spring Semester                         | Hrs |
 |---------------------------------------------|:---:|-----------------------------------------------------------------|:---:|
 | CSCI 4348 – Startup Essentials              | 4   | CSCI 4358 – Entrepreneurial Projects 2                          | 4   |
-| CSCI 3287 – Design/Analysis of Data Systems | 3   | PSYC 4220 - Language & Mind                                     | 3   |
+| CSCI 4622 - Machine Learning                | 3   | PSYC 4220 - Language & Mind                                     | 3   |
 | PSYC 4165 – Psychology of Perception        | 4   | CSCI 4250 - Computer Science - The Canon (Humanities credit)    | 3   |
 | PSYC 3101 - Stats/Research in Psychology .  | 4   | ANTH 3170 - America: An Anthropological Perspective             | 4   |
 |                                             | 15  |                                                                 | 14  |
