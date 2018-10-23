@@ -51,7 +51,7 @@ Personal coursework and schedule for University of Colorado Boulder
 | INFO 4604 - Applied Machine Learning        | 3   | PSCI 3225 - Strategy & Politics                                 | 3   |
 | WRTG 3030 - Writing on Science & Society    | 3   | GEOG 3742 - Place, Power,  Culture                              | 3   |
 | CSCI 3702 - Cognitive Science               | 3   | MUEL 1115 - Piano Class I                                       | 1   |
-|                                             | 16  |                                                                 | 12  |
+|                                             | 16  |                                                                 | 13  |
 
 ### 2019-2020
 |                Fall Semester                | Hrs |                         Spring Semester                         | Hrs |
