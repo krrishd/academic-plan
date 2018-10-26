@@ -18,7 +18,6 @@ Personal coursework and schedule for University of Colorado Boulder
 * [Natural Science Requirements](#natural-science-requirements)
 * [Humanities Requirements](#humanities-requirements)
 * [Free Electives](#free-electives)
-* [Cognitive Science Certificate](#cognitive-science-certificate-requirements)
 * [Theoretical Standing](#theoretical-standing)
 
 ## Classes
@@ -48,19 +47,18 @@ Personal coursework and schedule for University of Colorado Boulder
 |---------------------------------------------|:---:|-----------------------------------------------------------------|:---:|
 | CSCI 3155 – Principles of Prog. Languages   | 4   | CSCI 3287 – Design/Analysis of Data Systems                     | 3   |
 | CSCI 3202 – Artificial Intelligence         | 3   | ATLS 4214 – Big Data Architecture                               | 3   |
-| INFO 4604 - Applied Machine Learning        | 3   | CSCI 4502 – Data Mining                                         | 3   |
-| WRTG 3030 - Writing on Science & Society    | 3   | LING 2000 - Intro to Linguistics                                | 3   |
-| CSCI 3702 - Cognitive Science               | 3   |                                                                 |     |
-|                                             | 16  |                                                                 | 12  |
+| INFO 4604 - Applied Machine Learning        | 3   | PSCI 3225 - Strategy & Politics                                 | 3   |
+| WRTG 3030 - Writing on Science & Society    | 3   | GEOG 3742 - Place, Power,  Culture                              | 3   |
+| CSCI 3702 - Cognitive Science               | 3   | MUEL 1115 - Piano Class I                                       | 1   |
+|                                             | 16  |                                                                 | 13  |
 
 ### 2019-2020
 |                Fall Semester                | Hrs |                         Spring Semester                         | Hrs |
 |---------------------------------------------|:---:|-----------------------------------------------------------------|:---:|
 | CSCI 4348 – Startup Essentials              | 4   | CSCI 4358 – Entrepreneurial Projects 2                          | 4   |
-| CSCI 4622 - Machine Learning                | 3   | PSYC 4220 - Language & Mind                                     | 3   |
-| PSYC 4165 – Psychology of Perception        | 4   | CSCI 4250 - Computer Science - The Canon (Humanities credit)    | 3   |
-| PSYC 3101 - Stats/Research in Psychology .  | 4   | ANTH 3170 - America: An Anthropological Perspective             | 4   |
-|                                             | 15  |                                                                 | 14  |
+| CSCI 4622 - Machine Learning                | 3   |                                                                 |     |
+| CSCI 4502 – Data Mining                     | 3   |                                                                 |     |
+|                                             | 10  |                                                                 |  4  |
 
 * **College Total**: 114
 * **HS Transfer Credits**:30
@@ -213,40 +211,6 @@ At least six of the remaining 21 credit hours must be at the upper-division unde
 
 Satisfying all the other course requirements as described above typically adds up to a minimum of 116 credit hours, the exact number depending on specific courses selected and/or transfer credit. Students take “free electives” to reach the required minimum 128 total credits. All courses are considered acceptable free electives; however, co-op work experience does not count towards these 128 hours, nor does any other work experience.
 
-## Cognitive Science Certificate Requirements
-
-### Core Course Requirements
-* [x] PSYC 2145-3, Introduction to Cognitive Psychology
-    * Prerequisites: PSYC 1001-3 or 4 units
-* [x] CSCI 3702, PHIL 3310, LING 3005, PSYC 3005, Introduction to Cognitive Science
-    * Prerequisites: 2 of the following: PSYC 2145, LING 2000, CSCI 1300, PHIL 2440 (a minimum of 3 additional units)
-
-### Computer Science Focus Area
-
-Two of the following courses in Computer Science:
-* [x] CSCI 3002-3, Human-Centered Computing Foundations
-* [x] CSCI 3202-3, Artificial Intelligence 
-    * Prerequisites: CSCI 3104-4, 3155-4
-* [ ] CSCI 4202-3, Artificial Intelligence 2 
-    * Prerequisite: CSCI 3202-3
-* [ ] CSCI 4830-3, Special Topics: Learning and Collaboration
-
-### Psychology Focus Area
-
-Minimum of 7 units:
-* [ ] PSYC 4032-3, Neurobiology of Learning and Memory 
-    * Prerequisites: PSYC 2012, or 4052, or IPHY 3730, or instructor consent
-* [ ] PSYC 4145-4, Cognitive Psychology
-    * Prerequisites: PSYC 1001-3, 2145-3, 3101-4, AND one of the following five courses in experimental psychology:
-* [ ] PSYC 4155, Cognitive Neuroscience/Neuropsychology 
-    * Prerequisites: PSYC 1001, 2012, 2145 and 3101
-* [x] PSYC 4165-4, Psychology of Perception
-    * Prerequisites: PSYC 1001-3, 3101-4
-* [ ] PSYC 4175-3, Computational Cognitive Neuroscience
-    * Prerequisites: PSYC 1001-3, 2145-3, 3101-4, 2012-3
-* [x] PSYC 4220, Language & Mind
-    * Prerequisites: PSYC 1001, LING 2000* [ ] 
-
 
 ## Theoretical Standing
-If all goes according to plan, I'll graduate with a B.S. in Computer Science and a certificate in Cognitive Science.
+If all goes according to plan, I'll graduate with a B.S. in Computer Science.
