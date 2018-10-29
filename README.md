@@ -45,7 +45,7 @@ Personal coursework and schedule for University of Colorado Boulder
 ### 2018-2019
 |                Fall Semester                | Hrs |                         Spring Semester                         | Hrs |
 |---------------------------------------------|:---:|-----------------------------------------------------------------|:---:|
-| CSCI 3155 – Principles of Prog. Languages   | 4   | CSCI 3287 – Design/Analysis of Data Systems                     | 3   |
+| CSCI 3155 – Principles of Prog. Languages   | 4   | CSCI 3832 – Natural Language Processing                         | 3   |
 | CSCI 3202 – Artificial Intelligence         | 3   | ATLS 4214 – Big Data Architecture                               | 3   |
 | INFO 4604 - Applied Machine Learning        | 3   | PSCI 3225 - Strategy & Politics                                 | 3   |
 | WRTG 3030 - Writing on Science & Society    | 3   | GEOG 3742 - Place, Power,  Culture                              | 3   |
@@ -85,7 +85,8 @@ All of the following courses are required:
 Six of the following courses are required:
 * [x] CSCI 3002-3, Human-Centered Computing Foundations/User-Centered Design & Development
 * [x] CSCI 3202-3, Introduction to Artificial Intelligence
-* [x] CSCI 3287-3, Design & Analysis of Data Systems
+* [ ] CSCI 3287-3, Design & Analysis of Data Systems
+* [x] CSCI 3832-3, Natural Language Processing
 * [ ] CSCI 3302-3, Introduction to Robotics
 * [ ] CSCI 3434-3, Theory of Computation
 * [ ] CSCI 3656-3, Numerical Computation or APPM 4650, Intermediate Numerical Analysis 1 (only one of these will count towards the CSEN-BS)
