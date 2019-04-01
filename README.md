@@ -49,8 +49,8 @@ Personal coursework and schedule for University of Colorado Boulder
 | CSCI 3202 – Artificial Intelligence         | 3   | ATLS 4214 – Big Data Architecture                               | 3   |
 | INFO 4604 - Applied Machine Learning        | 3   | PSCI 3225 - Strategy & Politics                                 | 3   |
 | WRTG 3030 - Writing on Science & Society    | 3   | GEOG 3742 - Place, Power,  Culture                              | 3   |
-| CSCI 3702 - Cognitive Science               | 3   | MUEL 1115 - Piano Class I                                       | 1   |
-|                                             | 16  |                                                                 | 13  |
+| CSCI 3702 - Cognitive Science               | 3   |                                                                 |     |
+|                                             | 16  |                                                                 | 12  |
 
 ### 2019-2020
 |                Fall Semester                | Hrs |                         Spring Semester                         | Hrs |
@@ -58,7 +58,7 @@ Personal coursework and schedule for University of Colorado Boulder
 | CSCI 4348 – Startup Essentials              | 4   | CSCI 4358 – Entrepreneurial Projects 2                          | 4   |
 | CSCI 4622 - Machine Learning                | 3   |                                                                 |     |
 | CSCI 4502 – Data Mining                     | 3   |                                                                 |     |
-|                                             | 10  |                                                                 |  4  |
+| MDST 2011 - Disruptive Entrepreneurship in the Internet's New Economies | 3  |                                      |     | |                                             | 13  |                                                                 | 4   |
 
 * **College Total**: 114
 * **HS Transfer Credits**:30
