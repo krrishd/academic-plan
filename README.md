@@ -55,10 +55,10 @@ Personal coursework and schedule for University of Colorado Boulder
 ### 2019-2020
 |                Fall Semester                | Hrs |                         Spring Semester                         | Hrs |
 |---------------------------------------------|:---:|-----------------------------------------------------------------|:---:|
-| CSCI 4348 – Startup Essentials              | 4   | CSCI 4358 – Entrepreneurial Projects 2                          | 4   |
+| CSCI 4348 – Entrepreneurial Projects        | 4   | CSCI 4358 – Entrepreneurial Projects 2                          | 4   |
 | CSCI 4622 - Machine Learning                | 3   |                                                                 |     |
 | CSCI 4502 – Data Mining                     | 3   |                                                                 |     |
-| MDST 2011 - Disruptive Entrepreneurship in the Internet's New Economies | 3  |                                      |     | |                                             | 13  |                                                                 | 4   |
+| MUEL 2061 - Intro to Music Technology       | 3   |                                                                 |     | |                                             | 13  |                                                                 | 4   |
 
 * **College Total**: 114
 * **HS Transfer Credits**:30
